@@ -1,0 +1,1011 @@
+# Awesome AI Tools 中文版
+
+> 按 **12 个职场场景**整理的 945 个 AI 工具，每条一句话说明它是什么、适合谁。
+> 收录原则：能解决具体工作场景、有中文界面或中文效果好。
+> 数据更新：2026-10-27
+
+完整版（含用法步骤、免费额度、替代品对比）：**https://aizxs.com/tool**
+
+## 目录
+
+- [AI 办公工具](#ai-办公工具) — 148 个
+- [AI 开发工具](#ai-开发工具) — 116 个
+- [AI 视频工具](#ai-视频工具) — 110 个
+- [AI 智能体工具](#ai-智能体工具) — 103 个
+- [AI 图像工具](#ai-图像工具) — 98 个
+- [AI 写作工具](#ai-写作工具) — 82 个
+- [AI 设计工具](#ai-设计工具) — 67 个
+- [AI 音频工具](#ai-音频工具) — 65 个
+- [AI 学习工具](#ai-学习工具) — 55 个
+- [AI 聊天工具](#ai-聊天工具) — 42 个
+- [AI 搜索引擎](#ai-搜索引擎) — 37 个
+- [AI PPT/演示工具](#ai-ppt演示工具) — 22 个
+
+## AI 办公工具
+
+- [WPS AI](https://aizxs.com/tool/wps-ai) — WPS AI 是金山办公推出的 AI 办公助手
+- [飞书智能伙伴（飞书妙记）](https://aizxs.com/tool/fei-shu-zhi-neng-huo-ban) — 飞书智能伙伴是字节跳动旗下飞书办公平台的 AI 助手
+- [DuMate](https://aizxs.com/tool/dumate) — DuMate 是百度推出的桌面级AI智能体，定位为「办公搭子」
+- [Swishy](https://aizxs.com/tool/swishy) — Swishy 是领先的 AI 动态设计与动画生成平台，打破传统动效设计对昂贵软件、陡峭学习曲线和多年技术训练的依赖
+- [小墨鹰编辑器](https://aizxs.com/tool/xiao-mo-ying-bian-ji-qi) — 小墨鹰编辑器（原名小蚂蚁编辑器）是专业的 AI 公众号排版工具，深耕微信生态 10 年，累计服务 500 万用户
+- [智简简历](https://aizxs.com/tool/zhi-jian-jian-li) — 智简简历是免费的 AI 在线简历制作工具，主打「极简、智能、永久免费」的理念
+- [ChartinAI](https://aizxs.com/tool/chartinai) — ChartinAI 是 AI 智能图表生成工具，帮助用户将自然语言描述快速转化为专业美观的数据可视化图表
+- [切问学术](https://aizxs.com/tool/qie-wen-xue-shu) — 切问学术是 FudanNLP 团队推出的 AI 学术智能体，WisPaper 国内版
+- [知达AI](https://aizxs.com/tool/zhida-ai) — 知达AI 是专为教育全场景打造的 AI 智能助教，打破单一学段壁垒，覆盖 K12 基础教育、职业教育及特殊教育三大领域
+- [轻析 LiteSight](https://aizxs.com/tool/litesight) — 轻析 LiteSight 是 AI 视频内容提取工具，支持抖音、B 站、快手、小红书等主流短视频平台链接解析
+- [Lantay](https://aizxs.com/tool/lantay) — Lantay 是面壁智能推出的专业级文档处理智能工作台，被誉为「文档领域的 Cursor」
+- [ChatTOC](https://aizxs.com/tool/chattoc) — ChatTOC 是将 AI 对话内容转成导航目录的浏览器插件
+- [七色米AI](https://aizxs.com/tool/qisemi-ai) — 七色米AI 是专为中小企业打造的 AI 智能营销内容创作平台
+- [潮际好麦](https://aizxs.com/tool/chao-ji-hao-mai) — 潮际好麦是专业的 AI 电商营销内容创作平台，专注于为电商行业提供高效、低成本的视觉内容解决方案
+- [ChatExcel](https://aizxs.com/tool/chatexcel) — ChatExcel 是 AI 驱动的智能办公工具
+- [ChartGen](https://aizxs.com/tool/chartgen) — ChartGen 是高效便捷的 AI 图表生成工具，专注于将 CSV、Excel 等原始数据快速转化为专业级数据可视化结果
+- [TabTab](https://aizxs.com/tool/tabtab) — TabTab 是首个全链路 Data Agent
+- [百灵大模型](https://aizxs.com/tool/bai-ling-da-mo-xing) — 百灵大模型是蚂蚁集团推出的与百灵大模型交互的官方 Web 平台
+- [Tomoro](https://aizxs.com/tool/tomoro) — Tomoro 是腾讯灯塔推出的 AI 原生大数据分析工具
+- [酷宣AI](https://aizxs.com/tool/kuxuan-ai) — 酷宣AI 是一个超级智能体，集成多种先进的 AI 技术，能帮助用户轻松完成图文、图片、视频等制作任务
+- [AnyGen](https://aizxs.com/tool/anygen) — AnyGen 是字节跳动推出的 AI 办公智能体，通过语音输入和 AI 技术提升办公效率
+- [可赞AI](https://aizxs.com/tool/kezan-ai) — 可赞 AI 是聚焦办公场景的智能文档处理工具
+- [Typeless](https://aizxs.com/tool/typeless) — Typeless 是创新的 AI 语音输入工具，专为提升工作效率和表达流畅性设计
+- [Transor沉浸式翻译](https://aizxs.com/tool/transor) — Transor 沉浸式翻译是专业的 AI 翻译工具，为用户提供网页、字幕、PDF、图片等多场景的实时翻译服务
+- [Kuse](https://aizxs.com/tool/kuse) — Kuse 是集 AI 智能助手、无限画布和信息整合功能于一体的 AI 可视化工作台
+- [理聘AI](https://aizxs.com/tool/lipin-ai) — 理聘AI 是青塔推出的 AI 原生求职智能体
+- [iTerms](https://aizxs.com/tool/iterms) — iTerms 是法大大推出的的 AI 法律助手，专注于为创业者、企业老板、法务人员及律师提供高效法律服务
+- [51mee](https://aizxs.com/tool/51mee) — 51mee(我要米)是南京浅度求索科技推出的 AI 招聘管理工具，专注于提升招聘流程的效率和智能化水平
+- [Doclingo](https://aizxs.com/tool/doclingo) — Doclingo 是功能强大的 AI 文档翻译工具
+- [猫头鹰AI网页订阅](https://aizxs.com/tool/maotouying-subscribe) — 猫头鹰 AI 网页订阅是 AI 智能网站监控订阅工具，帮助用户追踪网页内容更新，适用于个人与企业用户
+- [OmniBox小黑](https://aizxs.com/tool/omnibox) — OmniBox 小黑是一款 AI 知识管理工具，帮助你高效地收集、整理与输出各种信息
+- [LovTalent](https://aizxs.com/tool/lovtalent) — LovTalent(小麦招聘)是 True Talents Connect(TTC)推出的 AI 原生求职智能体平台
+- [察言观数AskTable](https://aizxs.com/tool/asktable) — 察言观数（AskTable）企业级 AI 数据表格智能体平台
+- [求职方舟](https://aizxs.com/tool/qiu-zhi-fang-zhou) — 求职方舟是 AI 求职工具，智能识别自动填简历
+- [面团AI](https://aizxs.com/tool/miantuan-ai) — 面团 AI 是智能面试辅导工具，专为求职者设计，能自动听懂面试官的问题，实时生成参考回答，帮助求职者更好地应对面试
+- [秒言AI语音输入法](https://aizxs.com/tool/miaoyan-ai) — 秒言 AI 语音输入法是智能 AI 语音输入工具
+- [笔面通](https://aizxs.com/tool/bi-mian-tong) — 笔面通是为求职者打造的 AI 面试笔试助手
+- [吾律AI律师](https://aizxs.com/tool/wulv-ai) — 吾律 AI 律师是幂律智能推出的智能法律服务助手
+- [Ai好记](https://aizxs.com/tool/aihaoji) — Ai 好记是 AI 音视频转录与总结工具，能轻松解决你的信息处理难题:支持在线音视频链接解析、本地、网盘文件导入
+- [Loomi](https://aizxs.com/tool/loomi) — Loomi 是全球首个 AI 影响力代理（Social Media Influence Agent）,由蓝色光标推出
+- [面多多](https://aizxs.com/tool/mian-duo-duo) — 面多多是程序员鱼皮团队推出的沉浸式 AI 模拟面试平台，帮助求职者在面试中脱颖而出
+- [Gank Interview](https://aizxs.com/tool/gank-interview) — Gank Interview 是 AI 智能面试助手，专为笔试和面试设计的 AI 桌面应用程序
+- [智写流程](https://aizxs.com/tool/igenflow) — 智写流程是高效的操作指南 AI 生成工具，能自动捕捉网页操作生成清晰的图文教程
+- [超级简历](https://aizxs.com/tool/wondercv) — 超级简历 WonderCV 是 AI 简历生成与优化平台
+- [爱图表](https://aizxs.com/tool/aitubiao) — 爱图表是镝数科技推出的 AI 数据可视化和分析工具，专注于为用户提供便捷的图表生成、数据分析和报告撰写服务
+- [Ponder AI](https://aizxs.com/tool/ponder-ai) — Ponder AI 是创新的知识管理和思维导图工具，能帮助用户用更自然的方式组织和扩展思维
+- [UP简历](https://aizxs.com/tool/upcv) — UP 简历是 AI 简历制作平台，整合简历创建、优化、岗位匹配与面试准备全流程
+- [PicDoc](https://aizxs.com/tool/picdoc) — PicDoc 是创客贴团队推出的 AI 文本转图表工具
+- [你好星识](https://aizxs.com/tool/histella) — 你好星识（HiStella）是新一代 AI 智能文本工作空间
+- [Wisfile](https://aizxs.com/tool/wisfile) — Wisfile 是免费的本地 AI 文件管理工具，专为解决电脑文件混乱、命名无序和手动整理耗时的问题而设计
+- [我来wolai](https://aizxs.com/tool/wolai) — 我来 wolai 是面向未来的云端协作平台与个人笔记工具
+- [畅图AI](https://aizxs.com/tool/fluig) — 畅图是 AI 原生图表工具，通过自然语言与 AI 对话，用户无需绘图经验可快速生成思维导图、流程图、表格、看板等多种图表
+- [Shortcut](https://aizxs.com/tool/shortcut) — Shortcut 是 AI Excel 超级智能体，能快速处理复杂的 Excel 任务，例如分析数据、生成图表、构建金融模型等
+- [月亮树AI选品](https://aizxs.com/tool/moonstatistics) — 月亮树 AI 选品是月亮树跨境推出的专为亚马逊 FBA 和 FBM 卖家设计的智能选品工具
+- [AI面试帮](https://aizxs.com/tool/aimianshibang) — AI 面试帮是专为求职者设计的 AI 面试辅助工具，通过 AI 技术提供实时面试和笔试辅导
+- [牛面](https://aizxs.com/tool/niu-mian) — 牛面 AI 面试是专为互联网技术人员推出的 AI 面试工具
+- [Loomy](https://aizxs.com/tool/loomy) — Loomy 是科大讯飞推出的桌面级 AI 个人助理，基于 AstronClaw 打造，主打「零配置、下载即用」
+- [找我呀](https://aizxs.com/tool/zhao-wo-ya) — 找我呀是本地 AI 知识助手，文件搜索和智能问答工具
+- [Xmind AI](https://aizxs.com/tool/xmind-ai) — Xmind AI 是 Xmind 推出的 AI 思维导图工具
+- [AirOps](https://aizxs.com/tool/airops) — AirOps 是 Growth platform for AI search &#038; AEO(答案…
+- [Sheet+](https://aizxs.com/tool/sheetplus) — Sheet+ 是 Excel 和 Google Sheets 表格 AI 处理工具
+- [轻云图](https://aizxs.com/tool/qing-yun-tu) — 轻云图是必优科技推出的一款AI可视化云图生成工具
+- [网易见外（已停服）](https://aizxs.com/tool/wang-yi-jian-wai) — 网易见外是网易人工智能事业部推出的智能语音转写和翻译平台
+- [彩云小译](https://aizxs.com/tool/cai-yun-xiao-yi) — 彩云小译是一款支持中文、日文、英文三种语言互译的多功能翻译应用，核心功能是同声传译和文档翻译
+- [亿图图示AI](https://aizxs.com/tool/edrawmax-ai) — 亿图图示AI（EdrawMax AI）是亿图软件推出的智能绘图工具，专门帮用户快速画出各种专业的图表和图形
+- [Glif](https://aizxs.com/tool/glif-app-2) — Glif是一个无代码AI小工具构建平台，让没有任何编程基础的人也能自己做出有趣的AI生成器
+- [通义智文](https://aizxs.com/tool/tongyi-zhiwen-2) — 通义智文是阿里云推出的免费 AI 阅读助手
+- [阿里翻译](https://aizxs.com/tool/a-li-fan-yi-2) — 阿里翻译是阿里巴巴旗下推出的多语种在线 AI 翻译平台，由达摩院机器智能技术实验室提供技术支持
+- [Doc2X](https://aizxs.com/tool/doc2x-2) — Doc2X 是由武汉智识无垠科技推出的 AI 文档识别、转换与翻译工具
+- [麦耳会记](https://aizxs.com/tool/mai-er-hui-ji) — 麦耳会记是思必驰公司推出的一款 AI 会议辅助工具，主打「边说边转，边听边记」
+- [匡优AI](https://aizxs.com/tool/kuang-you-ai-2) — 匡优AI是一款专注于出题的AI工具，帮助老师、培训人员、内容创作者快速生成各种考试题目
+- [Craft AI Assistant](https://aizxs.com/tool/craft-ai-assistant-2) — Craft AI Assistant 是高颜值文档工具 Craft 推出的 AI 写作助手
+- [TinyWow](https://aizxs.com/tool/tinywow) — TinyWow 是一个在线 AI 工具箱，堆了超过 250 种工具进来，覆盖 PDF、图像、视频、写作、文件管理等多个方向
+- [奇觅](https://aizxs.com/tool/qi-mi) — 奇觅是美图公司出品的游戏广告 AI 制作与投放平台，专门帮游戏厂商和广告主解决「不会做广告素材」的难题
+- [百度翻译](https://aizxs.com/tool/bai-du-fan-yi) — 百度翻译是百度推出的免费在线翻译工具，支持中文和 190 多种语言之间的互译
+- [星火文档问答](https://aizxs.com/tool/xing-huo-wen-dang-wen-da) — 星火文档问答是科大讯飞推出的AI文档处理工具，基于讯飞星火大模型技术，专门解决职场中「文档太多看不完」这个让人头疼的问题
+- [ProcessOn](https://aizxs.com/tool/processon) — ProcessOn是国内头部的在线协作绘图工具
+- [链企AI](https://aizxs.com/tool/lian-qi-ai) — 链企AI是链企智能推出的一款AI商业搜索和标书写作工具，由阿里巴巴和浙江省金控联合入股，背景实力不俗
+- [Rows](https://aizxs.com/tool/rows) — Rows 是一款集成了 AI 功能的在线表格处理工具，简单说就是「会思考的电子表格」
+- [Excelly-AI](https://aizxs.com/tool/excelly-ai) — Excelly-AI 是一款把自然语言转换成 Excel 公式和 Google Sheets 公式的工具
+- [云一朵](https://aizxs.com/tool/yun-yi-duo) — 打开网盘，翻找一个学习视频，打开文件夹找去年整理过的资料，把一份 PDF 课件转成可以分享的链接——这些…
+- [法行宝](https://aizxs.com/tool/fa-xing-bao) — 凌晨 1 点，租客小赵盯着手机屏幕上一份房东发来的「提前 30 天解约」通知，脑子里浮现一连串问题:这是…
+- [Red Skill](https://aizxs.com/tool/red-skill) — 小红书的内容生态从来不缺「种草」,缺的是把种草直接变成可执行工具的链路
+- [讯飞星辰MaaS](https://aizxs.com/tool/maas) — 过去三年，国内大模型市场最显著的变化不是「模型变多了」,而是「模型选择从「哪家能用」升级为「哪家最适合这个场景」」
+- [xMatrix](https://aizxs.com/tool/xmatrix) — 互联网公司的 HR 大概都经历过这种绝望:招聘系统里躺着 3000 份简历，算法工程师岗位的需求一周内要 close
+- [神笔简历](https://aizxs.com/tool/shen-bi-jian-li) — 神笔简历是就业桥（jiuyeqiao.cn）旗下推出的一款 AI 智能简历云平台
+- [职得简历](https://aizxs.com/tool/zhi-de-jian-li) — 职得简历（zdjianli.cn）是一款主打「AI 写简历」和「AI 改简历」的在线简历工具
+- [蓝字典AI求职](https://aizxs.com/tool/ai-17) — 蓝字典 AI（lanzidian.com）是一款以「AI 求职工具」为核心定位的在线平台
+- [苏打办公](https://aizxs.com/tool/su-da-ban-gong) — 苏打办公是 360 集团旗下的在线办公工具聚合平台，定位「工具就是全，提高办公生活效率」
+- [Humata](https://aizxs.com/tool/humata) — Humata AI 是面向知识工作者的 PDF AI 助手，定位「AI 遇见你的知识库」
+- [Zapier](https://aizxs.com/tool/zapier) — Zapier 是全球最大的工作流自动化平台，定位「连接 9000+ 应用的 AI 自动化平台」
+- [Fireflies.ai](https://aizxs.com/tool/fireflies) — Fireflies.ai 是面向企业的 AI 会议助手，定位「AI 转录、总结、搜索会议内容」
+- [Magical](https://aizxs.com/tool/magical) — Magical 由 Harpaul Sambhi 在 2020 年于旧金山创立
+- [Reclaim](https://aizxs.com/tool/reclaim) — AI 日程管理工具，任务/习惯/会议自动排进日历，被打断还能实时重排 · **免费增值**
+- [Baklib](https://aizxs.com/tool/baklib-2) — Baklib 由成都探码科技团队于 2016 年创立，是国内领先的企业级数字内容体验云平台
+- [幕布](https://aizxs.com/tool/mubu-2) — 幕布（Mubu）由北京醋溜信息技术团队于 2015 年推出，是国内最早的「结构化思维笔记」工具之一
+- [Jobright](https://aizxs.com/tool/jobright-2) — Jobright 由 Eric Wang 和 Cheng Zhu 于 2022 年创立于美国硅谷
+- [博思白板](https://aizxs.com/tool/boardmix) — 博思白板（boardmix）是 2021 年上线的国产在线协作白板工具，定位是「团队实时协作 + AI 助手赋能」
+- [小画桌](https://aizxs.com/tool/xiaohuazhuo) — 小画桌是 2022 年上线的国产在线协作白板工具，定位是「轻量级实时协作白板」
+- [Tana](https://aizxs.com/tool/tana) — Tana 是 2020 年上线的 AI 驱动知识管理工具，定位是「超级标签 + 知识图谱 + 自动化工作流」
+- [万小智](https://aizxs.com/tool/wanxiaozhi) — 万小智（wanxiaozhi.com）是阿里云万网 2024 年推出的 AI 数字员工平台
+- [Taskade](https://aizxs.com/tool/taskade) — Taskade(taskade.com)是 Taskade Inc. 2019 年推出的 AI 协作平台
+- [Motion](https://aizxs.com/tool/motion) — AI 生产力平台，任务、日历、项目三合一，任务延期自动重排整张日历 · **免费增值**
+- [Tactiq](https://aizxs.com/tool/tactiq) — Tactiq(tactiq.io)是 Tactiq Inc. 2019 年推出的 AI 会议转录工具
+- [Fathom](https://aizxs.com/tool/fathom) — Fathom(fathom.video)是 Fathom Inc. 2020 年推出的免费 AI 会议记录工具
+- [Bardeen](https://aizxs.com/tool/bardeen) — Bardeen(bardeen.ai)是 Bardeen Inc. 2022 年推出的浏览器自动化 AI Agent
+- [Mailmeteor](https://aizxs.com/tool/mailmeteor) — Mailmeteor 是一款把 AI 写作和邮件群发结合在一起的邮件营销平台
+- [Lavender](https://aizxs.com/tool/lavender) — Lavender 是一款面向销售和客户成功团队的 AI 邮件教练，主打「在写邮件的当下就告诉你这封邮件能不能拿到回复」
+- [Granola](https://aizxs.com/tool/granola) — Granola 是一款专为会议场景设计的 AI 笔记工具
+- [Flowpoint](https://aizxs.com/tool/flowpointai) — Flowpoint 是面向网站运营者的 AI 网站行为分析工具
+- [Sphinx Mind](https://aizxs.com/tool/sphinxmind) — Sphinx Mind 是面向营销人员的 AI 营销助理平台
+- [Recless](https://aizxs.com/tool/beamjobs) — Recless(原 beamjobs)是面向求职者的 AI 推荐招聘平台
+- [Otter.ai](https://aizxs.com/tool/otter-ai) — Otter.ai 是面向企业和个人的 AI 会议转录平台，定位是「用 AI 把所有会议转成可搜索的文本 + 自动总结」
+- [Sybill](https://aizxs.com/tool/sybill-ai) — Sybill 是面向销售团队的 AI 助手，定位是「把 AI 深度集成到销售全流程，从邮件到通话到 CRM 自动更新」
+- [Affogato](https://aizxs.com/tool/affogato) — Affogato 是面向跨境营销人员和内容创作者的 AI 视频本地化平台
+- [Wispr Flow](https://aizxs.com/tool/wispr-flow) — Wispr Flow 是面向职场人和创作者的 AI 语音输入工具，定位是「在任何应用说话即打字，比手写快 5 倍」
+- [Pieces](https://aizxs.com/tool/pieces-app) — Pieces 是面向开发者的 AI 生产力工具
+- [Recall](https://aizxs.com/tool/recall) — Recall 是面向个人用户的 AI 知识管理工具
+- [aiPDF](https://aizxs.com/tool/aipdf) — aiPDF 是面向 PDF 阅读者的 AI 助手，定位是「用 AI 让 PDF 阅读 / 摘要 / 提取 / 问答变得简单」
+- [n8n](https://aizxs.com/tool/n8n-ai) — n8n 是面向业务团队和开发者的 AI 工作流自动化平台
+- [Read AI](https://aizxs.com/tool/read-ai) — Read AI 是面向销售团队和企业的 AI 会议智能分析平台
+- [MeetGeek](https://aizxs.com/tool/meetgeek) — MeetGeek 是面向远程团队和企业的 AI 会议助理平台，定位是"自动加入视频会议做记录、转写、提取行动项
+- [Huntr](https://aizxs.com/tool/huntr-ai) — Huntr 是面向求职者的 AI 简历与求职管理平台
+- [Riffo](https://aizxs.com/tool/riffo-ai) — Rifffo 是面向创意工作者的 AI 文件整理与重命名工具
+- [X-doc AI](https://aizxs.com/tool/xdoc-ai) — X-doc AI 是面向科研和企业的 AI 文档翻译平台
+- [Tiledesk](https://aizxs.com/tool/tiledesk) — Tiledesk 是面向企业的 AI 客服与对话自动化平台
+- [Postwise](https://aizxs.com/tool/postwise) — Postwise 是面向 Twitter(X)、LinkedIn、Instagram 等社交媒体博主的 AI 内容创作平台
+- [Quick Creator](https://aizxs.com/tool/quickcreator) — Quick Creator 是面向独立创业者和小型企业的 AI 内容营销平台，定位是"为 solo 创业者打造 AI 内容团队
+- [Elephas](https://aizxs.com/tool/elephas) — Elephas 是面向 Mac 用户的 AI 个人写作助手
+- [SaneBox](https://aizxs.com/tool/sanebox) — SaneBox 是一款 AI 邮件管理工具，定位是「用 AI 自动整理收件箱，每周帮你省 3-4 小时」
+- [Krisp](https://aizxs.com/tool/krisp) — Krisp 是面向远程团队的 AI 会议助手平台，定位是「#1 降噪 + AI 会议记录」
+- [Bitly](https://aizxs.com/tool/bitly) — Bitly 是创立于 2008 年的链接管理平台
+- [CakeGrowth](https://aizxs.com/tool/cakegrowth) — CakeGrowth 是首个专门面向 AI 应用的一站式联盟营销平台
+- [MaxAEO](https://aizxs.com/tool/maxaeo) — MaxAEO 是面向品牌与增长团队的 AI 搜索可见度监测与优化工具
+- [新榜](https://aizxs.com/tool/xinbang) — 新榜是国内领先的新媒体数据服务平台
+- [百家号](https://aizxs.com/tool/baijiahao) — 百家号是百度推出的内容创作平台，集创作、发布、变现于一体，助力创作者和企业实现营销转化
+- [蜜度校对通智能体 2.0](https://aizxs.com/tool/midu-xiaoduitong) — 校对通智能体 2.0 是蜜度（Midu）在 2026 世界人工智能大会（WAIC 2026）上发布的内容审校产品
+- [千问办公](https://aizxs.com/tool/qwenwork) — 千问办公（QwenWork）是阿里巴巴推出的 AI 办公平台
+- [度加创作](https://aizxs.com/tool/aigc-baidu) — 度加创作是百度官方出品的一站式 AIGC 创作平台
+- [ByteCP](https://aizxs.com/tool/bytecp) — ByteCP 是润建股份旗下曲尺AI推出的 AI 办公智能体，提供专业 PC 客户端（支持 Windows 与 macOS）
+- [金蝶AI星瀚](https://aizxs.com/tool/aixinghan) — 金蝶AI星瀚是金蝶面向央国企等大型集团企业推出的企业管理 AI，由金蝶云·星瀚升级而来
+- [通义听悟](https://aizxs.com/tool/tongyi-tingwu) — 是什么 通义听悟是阿里云推出的音视频 AI 助手 · **免费**
+- [腾讯会议](https://aizxs.com/tool/tencent-meeting) — 是什么 腾讯会议是腾讯推出的视频会议平台，官网称服务覆盖 4 亿+ 用户 · **免费**
+- [腾讯文档](https://aizxs.com/tool/tencent-docs) — 是什么 腾讯文档是腾讯的在线协作办公套件，覆盖文档、表格、幻灯片、PDF、收集表、智能文档、智能表格等品类 · **免费**
+- [钉钉 AI 表格](https://aizxs.com/tool/dingtalk-ai-table) — 是什么 钉钉 AI 表格（官网 table.dingtalk.com · **免费**
+- [PDFtoMarkdown.ai](https://aizxs.com/tool/pdftomarkdown-ai) — 把 PDF 一键转成干净 Markdown 的工具，Web/API/MCP 三端，喂 AI 前先清洗格式 · **免费增值**
+- [Superhuman](https://aizxs.com/tool/superhuman) — AI 邮件客户端，全键盘操作 + AI 自动起草与线程摘要，高频邮件岗提速 · **付费**
+- [Raycast](https://aizxs.com/tool/raycast) — Mac 效率中枢，快捷键唤起 + 扩展生态 + 内置 AI，免费版就能打 · **免费增值**
+
+## AI 开发工具
+
+- [GitHub Copilot](https://aizxs.com/tool/github-copilot) — GitHub Copilot 是 GitHub 与 OpenAI 合作推出的 AI 编程助手，基于大语言模型构建
+- [Cursor](https://aizxs.com/tool/cursor) — Cursor 是基于 VS Code 架构的 AI 代码编辑器，由 Anysphere 公司开发，深度集成 GPT 系列模型
+- [Qoder](https://aizxs.com/tool/qoder) — Qoder 是阿里巴巴推出的 AI Agentic 编程工具，深度理解代码库架构、记忆开发者习惯、支持 MCP 工具生态
+- [Codex](https://aizxs.com/tool/codex) — Codex 是 OpenAI 推出的 AI 编程智能体，搭载 GPT-5.5 编程特化模型，对标 Claude Code
+- [Claude Code](https://aizxs.com/tool/claude-code) — Claude Code 是 Anthropic 公司推出的基于命令行的 AI 编程工具
+- [TRAE](https://aizxs.com/tool/trae) — TRAE 是字节跳动推出的 AI IDE 编程工具
+- [YouWare](https://aizxs.com/tool/youware) — YouWare 是一站式 AI 编程社区与开发平台，帮助用户轻松实现创意
+- [MiMo Code](https://aizxs.com/tool/mimo-code) — MiMo Code 是小米大模型团队开源的新一代 AI 编程助手
+- [元气AI Bot](https://aizxs.com/tool/yuanqi-ai-bot) — 元气AI Bot 是猎豹推出的电脑全能 AI 伙伴，号称国产 OpenClaw，可在普通 Windows 电脑上本地运行
+- [CatPaw](https://aizxs.com/tool/catpaw) — CatPaw 是美团推出的 AI IDE 编程工具，让开发者专注于创意实现，提升项目交付效率
+- [InfCode](https://aizxs.com/tool/infcode) — InfCode 是词元无限推出的企业级 AI 编程工具，深度集成主流 IDE，如 JetBrains 全系列和 VS Code
+- [Lovable](https://aizxs.com/tool/lovable) — Lovable 是强大的全栈 AI 编程工具，一句话轻松创建全栈网站和 Web 应用程序，无需复杂的编程技能
+- [Warp Code](https://aizxs.com/tool/warp-code) — Warp Code 是 Warp 团队最新推出的 AI 编程工具，构建从 Prompt 到生产环境的完整 AI 辅助编程闭环
+- [CodeFlicker](https://aizxs.com/tool/codeflicker) — CodeFlicker 是快手推出的 AI 原生 IDE 编程工具
+- [Zcode](https://aizxs.com/tool/zcode) — Z Code 是智谱 AI 推出的 Agentic Development Environment(智能体开发环境)
+- [秒哒](https://aizxs.com/tool/miao-da) — 秒哒是百度推出的无代码应用开发平台
+- [Kilo Code](https://aizxs.com/tool/kilo-code) — Kilo Code 是开源的 AI 编程扩展插件，集成于 VS Code 等 IDE，通过自然语言交互加速开发流程
+- [JoyCode](https://aizxs.com/tool/joycode) — JoyCode 是京东云推出的新一代智能编程 AI IDE，通过 AI 技术为开发者提供高效、智能的编程体验
+- [Kiro](https://aizxs.com/tool/kiro) — Kiro 是亚马逊公司推出的 AI IDE，帮助开发者从概念到开发高效交付
+- [BrowserOS](https://aizxs.com/tool/browseros) — BrowserOS 是免费开源的 AI Agent 浏览器
+- [Zeabur](https://aizxs.com/tool/zeabur) — Zeabur 是专为氛围编程设计的云部署 AI 智能体
+- [华为云码道](https://aizxs.com/tool/huawei-maodao) — 华为云码道（CodeArts）是华为云推出的 AI 编程工具，深度融合 IDE、自主开发模式与代码大模型
+- [CodeBuddy IDE](https://aizxs.com/tool/codebuddy-ide) — CodeBuddy IDE 是腾讯推出的全栈开发 AI IDE
+- [Zread](https://aizxs.com/tool/zread) — Zread 是专为开发者设计的 AI 源码解读产品
+- [MonkeyCode](https://aizxs.com/tool/monkeycode) — MonkeyCode 是长亭科技开源的 AI 编程助手与企业级开发平台
+- [iFlow CLI](https://aizxs.com/tool/iflow-cli) — iFlow CLI 是阿里心流 AI 团队推出的免费终端 AI 智能体，堪称国产版「Claude Code」
+- [CodeSnippets](https://aizxs.com/tool/codesnippets) — CodeSnippets 是一款面向程序员和开发者的 AI 代码助手，主打代码生成、补全、分析、重构和调试五大核心能力
+- [Fronty](https://aizxs.com/tool/fronty) — Fronty 是一款由 AI 驱动的网页设计稿转代码工具
+- [AskCodi](https://aizxs.com/tool/askcodi) — AskCodi 是一个基于 AI 的编程助手
+- [Locofy](https://aizxs.com/tool/locofy) — Locofy 是一家来自新加坡的 AI 前端开发工具
+- [驭码CodeRider](https://aizxs.com/tool/coderider-2) — 驭码CodeRider是极狐GitLab推出的AI编程与软件智能研发助手，专为程序员和研发团队设计
+- [JetBrains AI](https://aizxs.com/tool/jetbrains-ai-2) — JetBrains AI 是 JetBrains 公司为其旗下系列 IDE（IntelliJ IDEA
+- [Fitten Code](https://aizxs.com/tool/fitten-code-2) — Fitten Code 是由国内非十科技自主研发的一款 AI 代码助手，底层由非十自研的代码大模型驱动
+- [Augment Code](https://aizxs.com/tool/augment-code) — Augment Code 是一款专门面向开发团队的 AI 编程助手，和普通的代码补全工具不同，它真正理解你的整个代码库
+- [Project IDX](https://aizxs.com/tool/project-idx) — Project IDX 是谷歌在 2024 年推出的基于云端的 AI 开发环境，简单说就是一个能在浏览器里写代码的 IDE
+- [Amp](https://aizxs.com/tool/amp-2) — Amp 是 Sourcegraph 在 2026 年推出的 AI 编程智能体，定位为「面向团队与成果的自主编程工具」
+- [Hocoos](https://aizxs.com/tool/hocoos) — Hocoos 是一个 AI 网站搭建工具，专门帮没有任何编程基础的人快速做网站
+- [通义灵码](https://aizxs.com/tool/tong-yi-ling-ma) — 通义灵码是阿里云推出的免费AI编程助手，基于通义大模型打造，专门帮开发者写代码、读代码、查bug
+- [Tabnine](https://aizxs.com/tool/tabnine) — Tabnine是一款老牌的AI代码补全工具，2019年就已经上线，最初叫Codota，后来改名Tabnine并持续迭代到今天
+- [C知道](https://aizxs.com/tool/c-zhi-dao) — C知道是CSDN开发者社区推出的AI技术问答助手，说白了就是给程序员用的AI聊天机器人
+- [OpenRouter](https://aizxs.com/tool/openrouter) — 把 AI 模型接入自家产品的工程师
+- [CC Switch](https://aizxs.com/tool/cc-switch) — 如果你用过 Claude Code
+- [Twinny](https://aizxs.com/tool/twinny) — Twinny 是一款开源的 VS Code AI 编程助手插件，定位「任意 API + 完全开源 + 完全本地化」
+- [Sourcegraph Cody](https://aizxs.com/tool/sourcegraph-cody) — Sourcegraph Cody 是 Sourcegraph 推出的 AI 编程助手，定位「理解整个代码库的 AI 编程伙伴」
+- [Replit Ghostwriter](https://aizxs.com/tool/replit-ghostwriter) — Replit Ghostwriter 是 Replit 推出的 AI 编程助手，定位「自然语言转应用」
+- [Codeium](https://aizxs.com/tool/codeium) — Codeium 由 Varun Mohan 和 Douglas Chen 在 2019 年于美国旧金山创立
+- [Mintlify](https://aizxs.com/tool/mintlify) — Mintlify 由 Amin Vahdat 和 Jenna Han 在 2021 年于美国旧金山创立
+- [Warp](https://aizxs.com/tool/warp) — Warp 是面向开发者的 AI 终端工具，定位「AI 加持的现代终端」
+- [Bito](https://aizxs.com/tool/bito) — Bito 是面向开发者的 AI 编程助手，定位「AI 写代码 + 代码评审 + 单元测试」
+- [FireCrawl](https://aizxs.com/tool/firecrawl-2) — FireCrawl 由 Mendable AI 团队于 2023 年开源，是面向 AI 应用的网页数据抓取工具
+- [DeepSite](https://aizxs.com/tool/deepsite-2) — DeepSite 由国内开发者 recursix 于 2024 年开源
+- [Cline](https://aizxs.com/tool/cline) — Cline 是 2024 年开源的 VS Code AI 编程助手，定位是「自主型 AI Agent 编程工具」
+- [Aider](https://aizxs.com/tool/aider) — Aider 是 2023 年开源的命令行 AI 结对编程工具，定位是「终端里的 AI 结对程序员」
+- [阿里云百炼](https://aizxs.com/tool/bailian) — 阿里云百炼（bailian.console.aliyun.com）是阿里云 2023 年推出的一站式大模型开发平台
+- [Roo Code](https://aizxs.com/tool/roo-code) — Roo Code(roocode.com)是一款开源的 AI 编程助手
+- [LangChain](https://aizxs.com/tool/langchain) — LangChain(langchain.com)是 LangChain Inc. 2022 年推出的大模型应用开发框架
+- [Continue](https://aizxs.com/tool/continue) — Continue(continue.dev)是 Continue.dev Inc. 2023 年推出的开源 AI 编程助手
+- [Bubble](https://aizxs.com/tool/bubble) — Bubble(bubble.io)是 Bubble Group 2012 年推出的无代码 Web 应用开发平台
+- [DeepCode](https://aizxs.com/tool/deepcode) — DeepCode AI(deepcode.ai / deepcode.snyk.io)是 DeepCod…
+- [Codiga](https://aizxs.com/tool/codiga) — Codiga(codiga.io)是 Codiga Inc. 2020 年推出的 AI 代码片段管理 + 代码审查工具
+- [Ollama](https://aizxs.com/tool/ollama) — Ollama(ollama.com)是 Ollama Inc. 2023 年推出的本地大模型运行工具
+- [LM Studio](https://aizxs.com/tool/lm-studio) — LM Studio(lmstudio.ai)是 LM Studio Inc. 2023 年推出的本地大模型可视化运行工具
+- [GPT4All](https://aizxs.com/tool/gpt4all) — GPT4All(nomic.ai/gpt4all)是 Nomic AI 2023 年推出的本地大模型桌面工具
+- [Fireworks AI](https://aizxs.com/tool/fireworks-ai) — Fireworks AI(fireworks.ai)是 Fireworks AI Inc. 2022 年…
+- [Together AI](https://aizxs.com/tool/together-ai) — Together AI(together.ai)是 Together AI Inc. 2022 年推出的开源大模型云推理平台
+- [Replicate](https://aizxs.com/tool/replicate) — Replicate(replicate.com)是 Replicate Inc. 2020 年推出的开源…
+- [PearAI](https://aizxs.com/tool/pearai) — PearAI(trypear.ai)是 PearAI Inc. 2024 年推出的 AI 代码编辑器
+- [Amazon Q Developer](https://aizxs.com/tool/amazon-q-developer) — Amazon Q Developer(aws.amazon.com/q/developer)是 Amaz…
+- [Sourcery](https://aizxs.com/tool/sourcery) — Sourcery(sourcery.ai)是 Sourcery Ltd. 2017 年推出的 Python 代码质量优化工具
+- [Codacy](https://aizxs.com/tool/codacy) — Codacy(codacy.com)是 Codacy Ltd. 2013 年推出的代码质量自动化平台
+- [SonarQube AI](https://aizxs.com/tool/sonar-ai) — SonarQube(sonarsource.com)是 SonarSource S.A. 2007 年推…
+- [QodanaAI](https://aizxs.com/tool/qodanaai) — Qodana(jetbrains.com/qodana)是 JetBrains s.r.o
+- [Refraction](https://aizxs.com/tool/refraction) — Refraction(refraction.dev)是 Refraction AI Inc. 2023…
+- [Cogram](https://aizxs.com/tool/cogram) — Cogram 是一款面向数据团队和分析师的 AI 协作工具，主打「用自然语言直接生成 SQL、Python 和可视化结果」
+- [MarsX](https://aizxs.com/tool/marsx) — MarsX 是一款把 AI、低代码和开源模块组合在一起的应用构建平台，主打「用现成模块像搭积木一样快速拼出 SaaS 产品」
+- [Builder.io](https://aizxs.com/tool/builderio) — Builder.io 是一款把 AI、可视化编辑和 Headless CMS 结合在一起的前端开发平台
+- [CodeRabbit](https://aizxs.com/tool/coderabbit) — CodeRabbit 是面向开发团队的 AI 代码审查工具，定位是「AI 在 PR 合并前自动审查代码，捕获 bug 和问题」
+- [Greptile](https://aizxs.com/tool/greptile) — Greptile 是面向开发团队的 AI 代码库理解工具，定位是「用自然语言跟你的代码库对话」
+- [Cursor](https://aizxs.com/tool/cursor-ai) — Cursor 是面向开发者的 AI 代码编辑器，定位是「把 AI 编程从补全升级为 Agent 协作」
+- [Portkey](https://aizxs.com/tool/portkey-ai) — Portkey 是面向开发团队和企业的 LLM Gateway
+- [LlamaIndex](https://aizxs.com/tool/llamaindex) — LlamaIndex 是面向开发者的 LLM 数据框架
+- [RunDiffusion](https://aizxs.com/tool/rundiffusion) — RunDiffusion 是面向 AIGC 创作者的云端 Stable Diffusion 平台
+- [Codeflash](https://aizxs.com/tool/codeflash) — Codeflash 是面向开发者的 AI 代码性能优化工具
+- [Vanna.ai](https://aizxs.com/tool/vanna-ai) — Vanna.ai 是面向业务人员的 AI SQL 生成工具
+- [GPTLocalhost](https://aizxs.com/tool/gptlocalhost) — GPTLocalhost 是面向开发者的本地 AI 编程助手，定位是"在你的 Mac 上本地运行 ChatGPT 级别的 AI
+- [10Web](https://aizxs.com/tool/10web) — 10Web 是面向小型企业和个人站长的 AI 网站生成与托管平台
+- [AgentsKB](https://aizxs.com/tool/agentskb) — AgentsKB 是面向 AI Agent 开发者的知识库管理平台
+- [AI for Database](https://aizxs.com/tool/ai-for-database) — AI for Database 是面向非技术人员的自然语言数据库查询工具
+- [Antigravity](https://aizxs.com/tool/antigravity) — Antigravity 是 Google 推出的 AI 编程助手，定位是"深度集成 Google AI 能力的代码生成工具
+- [v0 by Vercel](https://aizxs.com/tool/v0-dev) — v0 是 Vercel 推出的 AI 全栈 Web 应用生成工具
+- [Bolt.new by StackBlitz](https://aizxs.com/tool/bolt-new) — Bolt.new 是 StackBlitz 推出的 AI Web 应用构建平台
+- [Lovable](https://aizxs.com/tool/lovable-dev) — Lovable 是一款 AI 应用构建工具，定位是「通过聊天快速生成可上线的应用和网站」
+- [Replit](https://aizxs.com/tool/replit) — Replit 是一个在线集成开发环境（IDE）+ AI Agent 平台
+- [Aider](https://aizxs.com/tool/aider-ai) — Aider 是一款终端里的 AI 结对编程工具，定位是「在命令行直接和 AI 结对写代码」
+- [agent-browser](https://aizxs.com/tool/agent-browser) — agent-browser 是 Vercel Labs 在 2026 年推出的浏览器自动化 CLI 工具
+- [Azure Skills](https://aizxs.com/tool/azure-skills) — Azure Skills 是微软官方在 GitHub 开源的 Agent 插件库
+- [FastGPT](https://aizxs.com/tool/fastgpt) — FastGPT 是 Labring 团队开源的新一代企业级 AI Agent 构建平台
+- [DMXAPI](https://aizxs.com/tool/dmxapi) — DMXAPI(大模型 API)是 LangChain 中文网推出的智能 API 聚合服务平台
+- [稀土掘金](https://aizxs.com/tool/juejin) — 稀土掘金是字节跳动旗下的技术内容社区与开发者服务平台，聚焦前端、后端、移动端、AI 等领域的高质量技术文章与实战分享
+- [大模型实验室Lab4AI](https://aizxs.com/tool/lab4ai) — 大模型实验室 Lab4AI 是面向高校科研人员、AI 开发者和学习者的一站式 AI 科研学习平台
+- [PPIO派欧云](https://aizxs.com/tool/ppio) — PPIO 派欧云是领先的分布式云计算服务商
+- [小马算力](https://aizxs.com/tool/xiaomasuanli) — 小马算力是为个人开发者和小型团队设计的 AI 模型 API 聚合平台
+- [MoMA](https://aizxs.com/tool/moma) — MoMA 是中国移动推出的国内首个开放普惠大模型聚合平台，汇聚超 300 款主流大模型，涵盖开源、闭源、自研九天大模型
+- [方舟 Coding Plan](https://aizxs.com/tool/coding-plan) — 方舟 Coding Plan 是火山引擎推出的大模型 API 套餐订阅服务
+- [晨涧云](https://aizxs.com/tool/mornai) — 晨涧云是专注于提供高效、稳定 GPU 算力租赁的 AI 算力平台，简化算力获取，加速智能进程
+- [码上飞](https://aizxs.com/tool/codeflying) — 码上飞（CodeFlying）是跨赴科技推出的零代码 AI 应用开发平台
+- [Cherry Studio](https://aizxs.com/tool/cherry-studio) — Cherry Studio 是集多模型对话、知识库管理、AI 绘画、翻译等功能于一体的开源全能 AI 客户端助手
+- [book-to-skill](https://aizxs.com/tool/book-to-skill) — book-to-skill 是 GitHub 上的开源项目
+- [frontend-design](https://aizxs.com/tool/frontend-design) — frontend-design 是 Anthropic 推出的前端设计 Skill
+- [Claude-Mem](https://aizxs.com/tool/claude-mem) — Claude-Mem 是开发者 Alex Newman 打造的一款 Claude Code 智能记忆插件
+- [LLaMA-Factory Online](https://aizxs.com/tool/llama-factory-online) — LLaMA-Factory Online 是与开源项目 LLaMA-Factory 官方合作的在线大模型微调平台
+- [OpenCode](https://aizxs.com/tool/opencode) — OpenCode 是一个开源的 AI 编程智能体，在终端、IDE 和桌面端帮助开发者写代码
+- [仝人编程](https://aizxs.com/tool/tongren-programming) — 仝人编程是每日互动（个推）2026 年 8 月发布的 AI 应用开发工具，定位「让懂业务的人自己创造 AI 工具」
+- [Mojo](https://aizxs.com/tool/mojo) — Mojo 是 Modular 公司开发的 AI 编程语言，2026 年 8 月 20 日宣布完全开源
+- [Agent.Space](https://aizxs.com/tool/agentspace) — Agent.Space 是面向 AI 编程 Agent 的云端工作空间与模型订阅平台
+- [Qodo](https://aizxs.com/tool/qodo) — AI 代码审查平台，Agentic PR 评审 + 自定义规则，按 credits 团队池化计费 · **免费增值**
+
+## AI 视频工具
+
+- [即梦 AI](https://aizxs.com/tool/ji-meng-ai) — 即梦 AI 是字节跳动旗下的一站式 AI 视频与图像生成平台
+- [可灵](https://aizxs.com/tool/ke-ling) — 可灵 (Kling) 是快手推出的 AI 视频生成大模型
+- [Pika](https://aizxs.com/tool/pika) — Pika 是海外知名的 AI 视频生成平台
+- [Filmora](https://aizxs.com/tool/filmora) — Filmora 是万兴科技（wondershare）推出的 AI 视频编辑工具，主打「易上手 + AI 加持」
+- [Vmake AI](https://aizxs.com/tool/vmake-ai) — Vmake AI 是面向电商卖家的 AI 视频编辑工具
+- [Opus Clip](https://aizxs.com/tool/opus-clip) — Opus Clip 是由 Opus 公司推出的 AI 视频剪辑工具
+- [Descript](https://aizxs.com/tool/descript) — Descript 是面向播客和视频创作者的 AI 编辑工具
+- [Vozo](https://aizxs.com/tool/vozo) — Vozo 是 AI 视频重制工具
+- [开拍](https://aizxs.com/tool/kai-pai) — 开拍是美图推出的 AI 视频创作工具
+- [Keevx](https://aizxs.com/tool/keevx) — Keevx 是 AI 数字人视频创作工具
+- [Seedance](https://aizxs.com/tool/seedance) — Seedance 是字节跳动 Seed 团队推出的多模态 AI 视频生成模型，采用统一的多模态音视频联合生成架构
+- [VibeKnow](https://aizxs.com/tool/vibeknow) — VibeKnow 是全球首个 AI 知识视频创作平台，主打「一键把文档/URL变成讲得清楚的视频」
+- [Pollo AI](https://aizxs.com/tool/pollo-ai) — Pollo AI 是一站式 AI 图像与视频创作平台
+- [RHTV](https://aizxs.com/tool/rhtv) — RHTV 是 RunningHub 推出的原生 AI 无限画布创作工具，实现「真·人机协同」创作
+- [MetaLaw](https://aizxs.com/tool/metalaw) — MetaLaw是AI法律研究和合同审查平台，能提高法律专业人士的工作效率
+- [剧火AI](https://aizxs.com/tool/juhuo-ai) — 剧火AI 是面向 AI 短剧创作者的一站式创作 Agent，定位为「AI 编剧 + 导演，一人短剧工作室」
+- [Yoroll](https://aizxs.com/tool/yoroll) — Yoroll 是 LinearGame 推出的 AI 原生互动视频游戏平台，主打「AI 快速生成 + 互动逻辑自动适配」
+- [Lumen Flow](https://aizxs.com/tool/lumen-flow) — Lumen Flow 是端到端 AI 漫剧自动生产线，基于 Seedance 2.0 构建首个影视 AgentOS
+- [AdsTurbo AI](https://aizxs.com/tool/adsturbo-ai) — AdsTurbo AI 是专为广告主与电商团队打造的 AI 视频广告生成平台，帮助用户快速、低成本地生产高转化短视频素材
+- [updream](https://aizxs.com/tool/updream) — updream 是 B 站面向专业创作者推出的 AI 视频创作平台
+- [交织 Weave](https://aizxs.com/tool/weave) — 交织 Weave 是 AI 驱动的全能创作平台
+- [Oiiyao](https://aizxs.com/tool/oiiyao) — Oiiyao 是 AI 视频本地化平台，支持一次上传生成 70+ 语种版本
+- [视觉工厂](https://aizxs.com/tool/shi-jue-gong-chang) — 视觉工厂是在线 AI 创作工具，支持 AI 生图和视频生成服务
+- [Pixmax](https://aizxs.com/tool/pixmax) — Pixmax 是专为 AI 真人短剧、2D/3D 漫剧、电商广告、数字人等赛道打造的一站式创作引擎
+- [OhYesAI](https://aizxs.com/tool/ohyesai) — OhYesAI 是专注于 AI 音乐 MV 创作的音视一体化智能体平台，让每一个声音找到属于它的画面
+- [Makefun](https://aizxs.com/tool/makefun) — Makefun 是主打免费、无限制、隐私优先的一站式 AI 视频生成平台
+- [Loopit](https://aizxs.com/tool/loopit) — Loopit 是北京涌跃智能科技推出的面向 C 端的 AI 互动内容社区
+- [灵绘AI](https://aizxs.com/tool/linghui-ai) — 灵绘AI 是面向全球市场的专业级 AI 视频生成平台，支持中英文转换
+- [VibePaper](https://aizxs.com/tool/vibepaper) — VibePaper 是面向短剧制作公司和专业创作者的 AI 协作工作台
+- [Topview](https://aizxs.com/tool/topview) — Topview 是专为电商与营销场景推出的 AI 视频生成 Agent
+- [AniShort](https://aizxs.com/tool/anishort) — AniShort 是八点八数字科技推出的 AI 短剧协同创作平台，以「为 AI 短剧协作而生」为使命，重构 AI 短剧生产流程
+- [万镜一刻](https://aizxs.com/tool/wan-jing-yi-ke) — 万镜一刻是阿里云推出的 AI 视频创作平台，以「万镜生辉·一刻成片」为核心理念，通过智能技术重构影视创作流程
+- [立刻MV](https://aizxs.com/tool/like-mv) — 立刻MV(LickMV)是一站式 AI 音乐视频（MV）创作工具，提供网页端 Studio 和 iPhone App 双版本
+- [TagoMovie](https://aizxs.com/tool/tagomovie) — TagoMovie 是专为零基础新手打造的一站式 AI 漫剧与短剧创作平台
+- [Pexo](https://aizxs.com/tool/pexo) — Pexo 是 AI 视频创作 Agent，个人专属的 AI 视频伙伴
+- [LibTV](https://aizxs.com/tool/libtv) — LibTV 是 LiblibAI 推出的一站式 AI 视频创作平台，首个同时面向人类创作者和 Agent 的双入口系统
+- [Flova](https://aizxs.com/tool/flova) — Flova 是全球首个一体化 AI 视频创作平台，通过多智能体协作系统将剧本、分镜、视频生成、后期剪辑全流程自动化
+- [SekoTalk](https://aizxs.com/tool/sekotalk) — SekoTalk 是商汤科技旗下 Seko 视频创作智能体中的 AI 对口型工具
+- [亿话](https://aizxs.com/tool/yi-hua) — 亿话是一站式 AI 数字人智能体创作平台，降低数字人创作门槛，推动其在各产业的规模化应用
+- [TapNow](https://aizxs.com/tool/tapnow) — TapNow 是专业的 AI 视觉内容创作平台，能为创作者提供高效、自由的创作体验
+- [HitPaw](https://aizxs.com/tool/hitpaw) — HitPaw 是专注于 AI 视频、图像和音频处理工具，帮助全球创作者提升内容质量，降低专业级多媒体处理技术的使用门槛
+- [魔珐星云](https://aizxs.com/tool/mo-fa-xing-yun) — 魔珐星云是魔珐科技推出的具身智能 3D 数字人开放平台，致力于让 AI 从「有大脑」升级到「有身体」,实现自然表达和交互
+- [通义灵眸](https://aizxs.com/tool/tong-yi-ling-mou) — 通义灵眸是阿里通义推出的一站式 AI 数字人生产与应用平台
+- [造次](https://aizxs.com/tool/zao-ci) — 造次是专为创作者打造的 AI 原创 IP 视频社区
+- [量子探险](https://aizxs.com/tool/liang-zi-tan-xian) — 量子探险是专业的小说创作 &#038; AI 漫剧制作工具
+- [磁力开创](https://aizxs.com/tool/ci-li-kai-chuang) — 磁力开创是快手推出的 AI 创意生产平台，帮助用户实现剪同款、一键成片等便捷能力，让创意制作更简单
+- [A2E](https://aizxs.com/tool/a2e) — A2E 是一站式 AI 视频生成平台，提供多种创新功能，包括声音克隆、唇形同步、图像到视频转换以及多语言支持等
+- [LuxReal](https://aizxs.com/tool/luxreal) — LuxReal 是群核科技推出的 AI 3D 视频创作平台
+- [内容特工队](https://aizxs.com/tool/nei-rong-te-gong-dui) — 内容特工队是全球首款移动端 AI 营销视频生成智能体，专为中小微企业、个体创业者及跨境营销人员设计
+- [OiiOii](https://aizxs.com/tool/oiioii) — OiiOii 是全球首个专业动画创作 Agent，能帮助创作者轻松实现动画梦想
+- [NeoDomain](https://aizxs.com/tool/neodomain) — NeoDomain(智能新境 AI)是创新的 AI 创意内容生成智能体，提供从创意构思到成片的一站式服务
+- [NextCut AI](https://aizxs.com/tool/nextcut-ai) — NextCut AI 是创新的 AI 视频创作工具
+- [妙播](https://aizxs.com/tool/miao-bo) — 妙播是腾讯广告推出的 AI 直播电商解决方案
+- [Higgsfield](https://aizxs.com/tool/higgsfield) — Higgsfield 是专注于 AI 视频生成的创新工具，能将静态图片转化为具有专业运镜效果的动态视频
+- [CrePal](https://aizxs.com/tool/crepal) — CrePal 是强大的 AI 视频创作智能体，能自动化完成视频制作流程
+- [智谱清影](https://aizxs.com/tool/chatglm-video) — 智谱清影是智谱推出的 AI 视频生成工具，能根据用户输入的文本描述或上传的图片，快速生成动态视频内容
+- [花生AI](https://aizxs.com/tool/huasheng-ai) — 花生 AI 是 B 站推出的 AI 视频创作工具
+- [Brainrot.mov](https://aizxs.com/tool/brainrotmov) — Brainrot.mov 是专为创作者打造的 AI 视频创作平台，能将任意脚本迅速转化为适合社交媒体传播的病毒式短视频
+- [MochiAni](https://aizxs.com/tool/mochiani) — MochiAni(麻薯动画)是专为创作者打造的 AI 动画视频创作工具，提供从创作到出海的一站式解决方案
+- [雾象](https://aizxs.com/tool/wu-xiang) — 雾象（Fogsight）是免费开源的 AI 动画生成工具，能将用户的文字描述快速转化为生动的动画作品
+- [EbSynth](https://aizxs.com/tool/ebsynth) — EbSynth 是一个视频风格转换工具，能将现有的视频转换为不同的艺术风格，例如油画风格或卡通风格
+- [团队快剪](https://aizxs.com/tool/tuan-dui-kuai-jian) — 团队快剪是闪剪智能团队专门为团队带货场景打造的一款AI视频创作平台
+- [Rask](https://aizxs.com/tool/rask) — Rask 是一款专注于视频内容本地化的AI工具，由一支在人工智能和语言技术领域深耕多年的团队开发
+- [万兴播爆](https://aizxs.com/tool/wan-xing-bo-bao) — 万兴播爆是由万兴科技自主研发的AI数字人口播视频创作平台，2023年正式上线，主要面向跨境电商从业者和视频创作者
+- [MOKI](https://aizxs.com/tool/moki) — MOKI是美图公司推出的AI视频短片创作平台
+- [Kaiber](https://aizxs.com/tool/kaiber) — Kaiber 是一款把图片和文字变成视频的 AI 引擎，最近两年在创作者圈子里火得一塌糊涂
+- [DomoAI](https://aizxs.com/tool/domoai) — DomoAI 是映刻科技推出的一站式 AI 视频和动画创作平台，国际版叫 DomoAI，国内版叫滴墨 AI（大画家 Domo）
+- [Captions](https://aizxs.com/tool/captions-ai-2) — Captions 是一款主打 AI 能力的视频创作工具，过去要拍一条像样的视频，从写脚本到剪辑再到后期，至少得折腾好几天
+- [来画](https://aizxs.com/tool/lai-hua) — 来画是一款在线 AI 视频创作平台，主打动画视频、数字人视频和 PPT 的快速生成
+- [Morph Studio](https://aizxs.com/tool/morph-studio) — Morph Studio 是一款文字转视频的 AI 工具，能根据你输入的文字描述直接生成最长 7 秒的高清视频片段
+- [AVCLabs](https://aizxs.com/tool/avclabs) — AVCLabs 是一款AI视频背景移除工具，专门解决视频里多余背景需要处理的问题
+- [DeepBrain](https://aizxs.com/tool/deepbrain) — DeepBrain（现已更名为AI Studios）是一款专注于AI口播视频生成的在线工具，主打「真人出镜」效果
+- [一起剪](https://aizxs.com/tool/yi-qi-jian) — 一起剪是广州智媒云科技推出的一款AI短视频创作平台，定位是帮内容创作者更高效地产出视频
+- [鬼手剪辑GhostCut](https://aizxs.com/tool/ghostcut) — 一个跨境电商团队要把 100 条中文带货视频本地化成英语
+- [Typeframes](https://aizxs.com/tool/typeframes) — 许多创业团队、独立开发者、SaaS 公司都面临同一个问题:产品功能很扎实，但一段 30 秒的产品介绍视频却做不出来
+- [Viggle](https://aizxs.com/tool/viggle) — 一张精心绘制的角色立绘、一张抓拍的舞蹈视频、一张定格的电影截图——在传统动画流程里
+- [必剪Studio](https://aizxs.com/tool/bi-jian-studio) — 凌晨两点，UP 主阿松终于把脚本写完，看了一眼自己那张熬夜发暗的脸，叹了口气——这条视频又要拖到明天重拍
+- [绘蛙AI视频](https://aizxs.com/tool/hui-wa-ai) — 服装店主小李的烦恼很具体:每一件新品上架前，都需要模特上身图
+- [Seko](https://aizxs.com/tool/seko) — 想做一集短剧，但没有演员
+- [Synthesia](https://aizxs.com/tool/synthesia) — Synthesia 是全球领先的 AI 视频生成平台，定位「商业级 AI 视频第一品牌」
+- [Pictory](https://aizxs.com/tool/pictory) — Pictory 是面向内容创作者与营销人员的 AI 视频生成平台，定位「文本到视频 AI」
+- [Lumen5](https://aizxs.com/tool/lumen5) — Lumen5 是面向营销人员的 AI 视频生成平台，定位「把文字内容变成视频」
+- [Runway](https://aizxs.com/tool/runway) — Runway 是面向创意工作者的 AI 视频生成平台，定位「用 AI 模拟世界」
+- [Elai](https://aizxs.com/tool/elai) — Elai 是面向企业的 AI 数字人平台，定位「AI 加持的视频生成与翻译」
+- [Synthesys](https://aizxs.com/tool/synthesys) — Synthesys 由 Andrea Difino 和 Michael Morrison 创立于 2020 年
+- [Fliki](https://aizxs.com/tool/fliki-2) — Fliki 由 Sabir Ahmed 和 Atul Yadav 创立于 2021 年
+- [WinkStudio](https://aizxs.com/tool/winkstudio) — WinkStudio 是美图公司（Meitu）2024 年推出的桌面端 AI 视频编辑工具，定位是「专业 AI 视频后期工具」
+- [Sora 2](https://aizxs.com/tool/sora-2) — Sora 2 是 OpenAI 2025 年 9 月推出的第二代 AI 视频生成模型，定位是「物理一致的 AI 视频生成」
+- [Vidu](https://aizxs.com/tool/vidu) — Vidu(vidu.studio)是生数科技 2024 年推出的国产 AI 视频生成模型
+- [Kling AI](https://aizxs.com/tool/kling-ai) — Kling AI(klingai.com)是快手 2024 年推出的国产 AI 视频生成模型
+- [PixVerse](https://aizxs.com/tool/pixverse) — PixVerse(pixverse.ai)是 PixVerse Inc. 2024 年推出的 AI 视频生成平台
+- [D-ID](https://aizxs.com/tool/d-id) — D-ID(d-id.com)是 D-ID Ltd. 2017 年推出的 AI 数字人视频生成平台
+- [Colossyan](https://aizxs.com/tool/colossyan) — Colossyan(colossyan.com)是 Colossyan Inc. 2021 年推出的企业…
+- [Choppity](https://aizxs.com/tool/choppity) — Choppity 是面向内容创作者的 AI 视频剪辑工具，定位是「把 1 小时长视频自动剪成 30 条短视频」
+- [Rizzle](https://aizxs.com/tool/rizzle) — Rizzle 是面向内容创作者 / 媒体公司的 AI 视频全流程平台，定位是「从文字秒变视频到分发变现一站式服务」
+- [CinLink](https://aizxs.com/tool/cinlink) — CinLink 是面向创作者和企业的 AI 视频本地化平台，定位是「把视频一键翻译成 30+ 语言，带配音和唇形同步」
+- [MaxVideoAI](https://aizxs.com/tool/maxvideoai) — MaxVideoAI 是面向视频创作者和后期制作人员的 AI 视频生成与增强平台
+- [Cosmos](https://aizxs.com/tool/cosmos) — Cosmos 是面向视频制作公司的 AI 销售助手
+- [Hailuo AI](https://aizxs.com/tool/hailuo-ai) — Hailuo AI(海螺 AI) 是 MiniMax 推出的 AI 视频生成平台
+- [Aippy](https://aizxs.com/tool/aippy) — Aippy 是赤子城科技推出的 AI 游戏生成社区，被誉为「游戏版 TikTok」
+- [TDream](https://aizxs.com/tool/tdream) — TDream 是腾讯推出的 AI 互动内容创作平台，核心定位「互动影游化创作」
+- [Laper](https://aizxs.com/tool/laper) — Laper 是专为编剧、导演和制片人推出的 AI 原生剧本创作工具
+- [MVLAND](https://aizxs.com/tool/mvland) — MVLAND 是美图旗下面向创作者推出的 AI 音乐视频创作平台，支持从灵感到成片的完整 MV 工作流
+- [Veo 3](https://aizxs.com/tool/veo-3) — Veo 3 是 Google DeepMind 推出的第三代 AI 视频生成模型
+- [万相 Wan3.0](https://aizxs.com/tool/wan3-0) — 万相 Wan3.0 是阿里巴巴 2026 年 8 月 24 日正式上线的视频生成大模型，主打「稳定、真实、有质感」
+- [MiniMax H3](https://aizxs.com/tool/minimax-h3) — MiniMax H3 是 MiniMax 于 2026 年 8 月推出的开源视频生成大模型
+- [Vibbit](https://aizxs.com/tool/vibbit) — Vibbit 是一个 AI 视频创作智能体平台，通过聊天界面即可完成视频创作全流程
+- [沃创AI Wocreate](https://aizxs.com/tool/wocreate) — 沃创AI(Wocreate)是一款面向电商与社交媒体的 AI 视频生成工具，提供覆盖服装、美妆、食品等全品类的电商视频模板库
+- [泡漫](https://aizxs.com/tool/popmint) — 泡漫是掌阅科技推出的一站式 AI 漫剧生成平台，专注用 AI 重新定义漫剧创作
+- [Vidu S2](https://aizxs.com/tool/vidu-s2) — 生数科技实时视频模型，换风格换背景实时编辑，适合短视频/广告快速出片 · **免费增值**
+
+## AI 智能体工具
+
+- [Manus](https://aizxs.com/tool/manus) — Manus 是由中国创业团队 Monica 推出的通用 AI 智能体产品
+- [Coze](https://aizxs.com/tool/coze) — Coze(扣子)是字节跳动推出的 AI Agent 平台，扣子 3.0 支持多 Agent 协作团队与真人成员共同推进项目
+- [小云雀](https://aizxs.com/tool/xiaoyunque) — 小云雀是字节跳动旗下剪映团队推出的 AI 内容创作 Agent，主打「一句话打造一个爆款」的零门槛创作体验
+- [happycapy](https://aizxs.com/tool/happycapy) — happycapy 是 Trickle 团队推出的基于 Claude Code 云端 AI Agent 原生计算机
+- [MaxHermes](https://aizxs.com/tool/maxhermes) — MaxHermes 是 MiniMax 推出的全球首个云端沙箱 Hermes
+- [灵芽社区](https://aizxs.com/tool/ling-ya-she-qu) — 灵芽社区是腾讯推出的 AI 多模态创作者社区
+- [QClaw](https://aizxs.com/tool/qclaw) — QClaw 是腾讯电脑管家团队基于 OpenClaw 打造的本地 AI 助手，支持 Mac 和 Windows 双端
+- [Tabbit](https://aizxs.com/tool/tabbit) — Tabbit 是美团光年之外团队推出的AI原生浏览器
+- [OpenClaw](https://aizxs.com/tool/openclaw) — OpenClaw（龙虾🦞） 是开源免费的个人 AI 助手，能在个人电脑（如 Mac、Windows、Linux）上运行
+- [SingClaw](https://aizxs.com/tool/singclaw) — SingClaw 是 AI 数据桌面助手，是会记忆、会分析、会行动的新一代桌面智能体
+- [Interiorize](https://aizxs.com/tool/interiorize) — Interiorize 是专注于空间改造的 AI 室内设计工具
+- [724Claw永动虾](https://aizxs.com/tool/724claw) — 724Claw永动虾是基于 OpenClaw 封装的 Windows 桌面端 AI 助手应用，主打「开箱即用」的无门槛体验
+- [Atoms](https://aizxs.com/tool/atoms) — Atoms 是一支 AI Vibe Business Team，由 MetaGPT 与 OpenManus 团队联合打造
+- [Kevvee](https://aizxs.com/tool/kevvee) — Kevvee 是全球首个面向出海品牌的 AI 出海内容 GTM 策略 Agent，专注于品牌内容营销的增长策略决策
+- [MiniMax Hub](https://aizxs.com/tool/minimax-hub) — MiniMax Hub 是 MiniMax 推出的桌面端 AI 创意工作站，定位为新一代多模态 AI Agent 平台
+- [Leewow](https://aizxs.com/tool/leewow) — Leewow 是首个造物 AI Agent
+- [ArkClaw](https://aizxs.com/tool/arkclaw) — ArkClaw 是字节跳动旗下火山引擎推出的云端托管版 OpenClaw 服务
+- [Matrix](https://aizxs.com/tool/matrix) — Matrix 是超长时间自动化运行的主动式多 Agent 协作平台
+- [墨见](https://aizxs.com/tool/mo-jian) — 墨见是墨刀推出的 AI 伴生协作平台
+- [觅游](https://aizxs.com/tool/meyo) — 觅游（Meyo）是美团推出的 AI 原生 Agent 社区
+- [WinClaw](https://aizxs.com/tool/winclaw) — WinClaw 是威努特推出的桌面 AI 智能体平台，基于 OpenClaw 打造，主打「安全+易用」
+- [悟空](https://aizxs.com/tool/wu-kong) — 悟空（WUKONG）是阿里推出的全球首个企业级 AI 原生工作平台
+- [ColaOS](https://aizxs.com/tool/colaos) — ColaOS 是 ListenHub 团队推出的首个有灵魂的 AI Agent 操作系统
+- [Panofy](https://aizxs.com/tool/panofy) — Panofy 是开源项目 LLaMA-Factory 团队打造的全球首个可训练 AI 智能体平台
+- [ToDesk AI](https://aizxs.com/tool/todesk-ai) — ToDesk AI 是 ToDesk 推出的 AI 智能助手
+- [Moxt](https://aizxs.com/tool/moxt) — Moxt(More Context)是 Agent-Native Workspace(AI 原生工作空间…
+- [memU Bot](https://aizxs.com/tool/memu-bot) — memU Bot 是 7*24 全天候运行的 AI 个人助手，支持 macOS 和 Windows 系统
+- [腾讯Marvis](https://aizxs.com/tool/marvis) — 腾讯Marvis 是腾讯应用宝团队推出的操作系统级 AI 助手，定位为「更懂你的 AI 管家」
+- [SkillHub](https://aizxs.com/tool/skillhub) — SkillHub 是腾讯云专为中国用户推出的 Skill 极速安装工具
+- [AgentPolis](https://aizxs.com/tool/agentpolis) — AgentPolis(智能体城邦)是专为 AI Agent 打造的数字原生城市
+- [WorkAny](https://aizxs.com/tool/workany) — WorkAny 是支持本地运行的开源 AI 桌面智能体，基于自然语言交互，能理解用户的指令执行各种任务
+- [EvoMap](https://aizxs.com/tool/evomap) — EvoMap 是全球首个面向 AI 智能体的进化协作平台，由 OpenClaw 插件 Evolver 的原团队开发
+- [Accio Work](https://aizxs.com/tool/accio-work) — Accio Work 是阿里推出的面向全球中小企业的 AI Agent 平台，专注跨境电商全链路自动化
+- [MiniMax Agent](https://aizxs.com/tool/minimax-agent) — MiniMax Agent 是 MiniMax 推出的能完成长程复杂任务的通用智能体
+- [TuriX](https://aizxs.com/tool/turix-2) — TuriX 是融合 CUA(Computer Use Agent)的工业级通用 Agent 智能助手
+- [WorkBuddy](https://aizxs.com/tool/workbuddy) — WorkBuddy 是腾讯推出的 AI 原生桌面智能体工作台，是腾讯版「小龙虾」(OpenClaw)
+- [AutoClaw](https://aizxs.com/tool/autoclaw) — AutoClaw(中文名:澳龙)是智谱推出的国内首个一键安装本地版 OpenClaw，支持 macOS 和 Windows
+- [Hermes Agent](https://aizxs.com/tool/hermes-agent) — Hermes Agent 是 Nous Research 推出的开源自主 AI Agent 框架，非简单的聊天机器人或编程助手
+- [LobsterAI](https://aizxs.com/tool/lobsterai) — LobsterAI 是网易推出的全场景办公助手 Agent，也是国内大厂首个开源桌面级 Agent
+- [nexu](https://aizxs.com/tool/nexu) — nexu 是免费开源的 OpenClaw 桌面客户端
+- [InStreet](https://aizxs.com/tool/instreet) — InStreet 是字节扣子推出的 AI Agent 专属中文社交网络，只有 Agent 能发帖互动，人类只能围观
+- [RedClaw](https://aizxs.com/tool/redclaw) — RedClaw 是百度推出的全球首款手机端 OpenClaw 应用，原名「红手指 Operator」
+- [GenFlow](https://aizxs.com/tool/genflow) — GenFlow 是百度文库和百度网盘联合推出的全球首个全模态、全端通用 AI 智能体
+- [Tbox](https://aizxs.com/tool/tbox) — Tbox 是蚂蚁集团旗下多智能体协同的通用 AI Agent
+- [Teamo](https://aizxs.com/tool/teamo) — Teamo 是夕小瑶团队推出的多 Agent 协作 AI 智能体
+- [响指HaiSnap](https://aizxs.com/tool/haisnap) — 响指 HaiSnap 是面向工作与学习场景的通用 AI Agent 平台
+- [FlowMuse AI](https://aizxs.com/tool/flowmuse-ai) — FlowMuse AI 是以「可视化工作流画布」为核心交互界面的 AI 内容生产平台
+- [如此AI员工](https://aizxs.com/tool/ruci-ai-employee) — 如此 AI 员工是四川如此网络科技有限公司推出的国内首个从推广-获客-转化-私域全链路托管式 AI Agent
+- [混沌Deep Innovation](https://aizxs.com/tool/deep-innovation) — 混沌 Deep Innovation(简称 HDDI)是混沌学园推出的战略咨询 AI 智能体
+- [MyShell](https://aizxs.com/tool/myshell) — MyShell 是结合人工智能和区块链技术的 AI Agent 开发平台，让每个人都能轻松创建、分享和拥有 AI 智能体
+- [书生大模型](https://aizxs.com/tool/internlm) — 书生大模型是上海人工智能实验室推出的系列 AI 模型，基于强大的推理能力、多模态理解和高效的信息处理，推动 AI 技术的发展
+- [讯飞星辰Agent](https://aizxs.com/tool/xfyun-agent) — 讯飞星辰 Agent 是科大讯飞推出的 AI 智能体开发平台
+- [Agnes AI](https://aizxs.com/tool/agnes-ai) — Agnes AI 是新加坡 Sapiens AI 团队推出的团队协作型 AI Agent，专为团队协作和办公场景设计
+- [FinGenius](https://aizxs.com/tool/fingenius) — FinGenius 是全球首个 A 股 AI 金融博弈智能体应用
+- [Genspark](https://aizxs.com/tool/genspark) — Genspark 是前百度小度高管推出的通用 AI 智能体
+- [遨虾](https://aizxs.com/tool/ao-xia) — 遨虾是 1688 推出的跨境电商生意 Agent，专为解决跨境经营中的效率和成本问题而设计
+- [TRAE Work](https://aizxs.com/tool/trae-work) — 不会写代码，但又想用 AI 把自己每天的文档、数据、PPT、原型图都「外包」出去?
+- [QoderWork](https://aizxs.com/tool/qoderwork) — 当 AI 助手不再只是对话框里的文字，而是能直接动手操作本地文件、生成 PPT、自动填表——办公自动化的边界被重新画了一遍
+- [Devin AI](https://aizxs.com/tool/devin-ai) — Devin AI 是 Cognition Labs 推出的全球首个「AI 软件工程师」
+- [Adept](https://aizxs.com/tool/adept) — Adept AI 是面向企业工作流自动化的 AI Agent 平台，定位「让 AI 操作所有软件工具」
+- [AutoGPT](https://aizxs.com/tool/autogpt) — AutoGPT 是基于 GPT 模型的自主 AI Agent 平台，定位「停止搭建工作流，开始雇佣 AI Agent」
+- [Lindy](https://aizxs.com/tool/lindy) — Lindy AI 由 Flo Crivello 在 2023 年于美国旧金山创立，是 AI 私人助理领域的代表产品
+- [Reworkd](https://aizxs.com/tool/reworkd) — Reworkd AI 由 Asim Shres­tha 在 2023 年于美国旧金山创立，是 AI 浏览器代理领域的代表产品
+- [CrewAI](https://aizxs.com/tool/crewai) — 开源多 Agent 协作框架，角色分工+任务编排，几行 Python 跑起 AI 团队 · **免费增值**
+- [Relevance AI](https://aizxs.com/tool/relevance-ai) — Relevance AI 是面向企业的 AI 代理平台，定位「无代码 AI 代理构建平台」
+- [Flowise](https://aizxs.com/tool/flowise) — Flowise 由 Henry Heng 创立于 2022 年，是开源 AI 代理编排领域的代表产品
+- [Suna](https://aizxs.com/tool/suna-2) — Suna 由 Kortix AI 团队于 2025 年发布并开源，是全球首个「通用型 AI Agent」开源项目
+- [BetterYeah AI](https://aizxs.com/tool/betteryeah-ai) — BetterYeah AI 是国内领先的企业级 AI 应用和 Agent 开发平台
+- [Trickle AI](https://aizxs.com/tool/trickle-ai) — # Trickle AI:一站式无代码 AI 开发平台，自然语言生成 App + 网站 + 表单，内
+- [Refly](https://aizxs.com/tool/refly) — Refly 是 2026 年 3 月上线的开源 Vibe Workflow 平台，定位是「非技术创作者的自动化工具」
+- [快马InsCode](https://aizxs.com/tool/inscode) — 快马InsCode 是 CSDN(中国专业开发者社区)2024 年推出的中文 AI 代码生成平台
+- [扣子](https://aizxs.com/tool/coze-cn) — 扣子（Coze / coze.cn）是字节跳动 2024 年推出的 AI Agent 开发平台
+- [Voiceflow](https://aizxs.com/tool/voiceflow) — Voiceflow(voiceflow.com)是 Voiceflow Inc. 2018 年推出的可视化对话设计平台
+- [Fixie](https://aizxs.com/tool/fixie) — Fixie AI(fixie.ai)是 Fixie.ai Inc. 2022 年推出的 AI Agent 构建平台
+- [AI21](https://aizxs.com/tool/ai21) — AI21 Labs(ai21.com)是 AI21 Labs Inc. 2017 年推出的大模型公司
+- [MobileMonkey](https://aizxs.com/tool/mobilemonkey) — MobileMonkey(mobilemonkey.com)是 MobileMonkey Inc. 20…
+- [BabyAGI](https://aizxs.com/tool/babyagi) — BabyAGI(babyagi.org)是 Yohei Nakajima 2023 年 3 月推出的革命性 AI Agent
+- [AutoGen](https://aizxs.com/tool/autogen) — AutoGen(github.com/microsoft/autogen)是 Microsoft Res…
+- [Replit Agent](https://aizxs.com/tool/replit-agent) — Replit Agent(replit.com/ai)是 Replit Inc. 2024 年推出的 A…
+- [Harvey AI](https://aizxs.com/tool/harvey-ai) — Harvey AI(harvey.ai)是 Harvey AI Inc. 2022 年推出的法律行业专用 AI Agent
+- [Lindygpt](https://aizxs.com/tool/lindygpt) — Lindy AI 是一款让没有任何编程基础的人也能搭建 AI 智能体的平台
+- [Cassidy](https://aizxs.com/tool/cassidy) — Cassidy 是一款让企业用自有数据训练专属 AI 助手的产品
+- [Agentset](https://aizxs.com/tool/agentset) — Agentset 是面向开发者的开源 RAG(检索增强生成)平台，定位是「让开发者几分钟部署一个生产级 AI 知识库」
+- [AgentMail](https://aizxs.com/tool/agentmail) — AgentMail 是面向 AI 开发者的 Agent 邮箱服务
+- [Marblism](https://aizxs.com/tool/marblism) — Marblism 是面向中小企业的 AI 员工平台
+- [AICamp](https://aizxs.com/tool/aicamp) — AICamp 是面向企业团队的 AI 应用统一管理平台
+- [Nexus AI](https://aizxs.com/tool/nexus-ai) — Nexus AI 是面向内容创作者的 AI 内容生成平台
+- [AgentsMesh](https://aizxs.com/tool/agentsmesh) — AgentsMesh 是面向企业 AI 团队的 AI Agent 工作力管理平台
+- [AgentMore](https://aizxs.com/tool/agentmore) — AgentMore 是智谱清言（ChatGLM）推出的 AI 智能体协作平台
+- [AstronClaw](https://aizxs.com/tool/astronclaw) — AstronClaw 是科大讯飞推出的云端部署版 OpenClaw
+- [爱派AiPy](https://aizxs.com/tool/aipy) — 爱派 AiPy 是免费开源的 AI 智能体工厂
+- [方舟 Agent Plan](https://aizxs.com/tool/agent-plan) — 方舟 Agent Plan 是火山引擎推出的业界首个 Agent 套餐，将多模态大模型与 Harness 工具深度整合
+- [搭叩](https://aizxs.com/tool/dakou) — 搭叩是心流（iFlow）AI 助手旗下异步 AI 智能体开发平台，专注于为开发者提供一站式开发任务支持
+- [数以轻舟Agent](https://aizxs.com/tool/agent) — 数以轻舟 Agent 是专注 Excel 数据处理的本地化 AI 智能体
+- [Mavis](https://aizxs.com/tool/mavis) — Mavis 是 MiniMax Agent 推出的多 Agent 协作模式，用「Jarvis」(贾维斯)命名理念
+- [CREAO](https://aizxs.com/tool/creao) — CREAO 是创新的零代码 AI 应用开发平台，用户通过简单的描述构建完整应用程序
+- [AgentScope](https://aizxs.com/tool/agentscope) — AgentScope 是阿里开源的面向生产环境的 AI 智能体（Agent）框架
+- [Claude Computer Use](https://aizxs.com/tool/claude-computer-use) — Claude Computer Use 是 Anthropic 为 Claude 系列模型推出的「计算机操作」能力
+- [Kitesurf](https://aizxs.com/tool/kitesurf) — Kitesurf 是 Cloudflare 于 2026 年 8 月 6 日发布的专为 AI 智能体打造的云端浏览器
+- [千问开放平台](https://aizxs.com/tool/qianwen-open-platform) — 千问开放平台是阿里旗下千问于 2026 年 8 月 10 日正式上线的 AI 智能体开放平台
+- [EasyClaw](https://aizxs.com/tool/easyclaw) — EasyClaw 是一款零配置桌面端 AI 智能体工具，集成国内主流顶级模型，一键安装即可使用，无需复杂配置
+- [DeepSkill](https://aizxs.com/tool/deepskill) — DeepSkill 是面向 AI Agent 的技能发现与安装平台，收录超过 13 万项经过验证的 Agent 技能
+- [AionClaw](https://aizxs.com/tool/aionclaw) — AionClaw 是杭州趣猿推出的桌面级 AI 智能体，基于 OpenClaw 深度升级，一键安装即可使用
+
+## AI 图像工具
+
+- [Midjourney](https://aizxs.com/tool/midjourney) — Midjourney 是由 Midjourney 公司开发的 AI 图像生成工具
+- [通义万相](https://aizxs.com/tool/tongyi-wanxiang) — 通义万相是阿里云推出的 AI 创意内容生成平台，基于先进的人工智能技术，帮助用户将创意转化为艺术作品
+- [Civitai](https://aizxs.com/tool/civitai) — Civitai 是一个专注于 AI 图像绘画和艺术作品创作与分享的在线平台和社区
+- [Stockimg AI](https://aizxs.com/tool/stockimg-ai) — Stockimg AI 是 AI 生成图像和插画的在线平台
+- [RunningHub](https://aizxs.com/tool/runninghub) — RunningHub 是基于云端 ComfyUI 的 AI 图像与视频创作平台，基于 ComfyUI 架构
+- [抠抠图](https://aizxs.com/tool/kou-kou-tu) — 抠抠图是基于 AI 的在线免费图片处理工具，专注于为用户提供高效、便捷的抠图服务
+- [秒绘AI](https://aizxs.com/tool/miaohui-ai) — 秒绘AI 是专为电商、自媒体和设计工作者打造的 AI 生产力平台，集成全球顶尖 AI 图片生成引擎
+- [米粿AI](https://aizxs.com/tool/miguo-ai) — 米粿AI 是懂画师的渐进式分层绘画助手，专为绘画和漫画场景设计
+- [Neural4D](https://aizxs.com/tool/neural4d) — Neural4D 是 DreamTech 团队（汇集牛津大学、南京大学等顶尖高校研究人才）推出的 AI 3D 模型生成平台
+- [蕉点AI](https://aizxs.com/tool/jiaodian-ai) — 蕉点AI 是武汉光瞳科技推出的多品类 AI 电商商品图生成平台，聚焦「让电商像吃香蕉一样简单」
+- [几何AI](https://aizxs.com/tool/jihe-ai) — 几何AI 是面向全品类电商的 AI 视觉生成平台
+- [Zorq AI](https://aizxs.com/tool/zorq-ai) — Zorq AI 是多模型聚合的 AI 创意生成平台，专为创作者、营销人员、设计师及团队打造
+- [Krene](https://aizxs.com/tool/krene) — Krene 是专注游戏/影视美术的 AIGC 创作平台
+- [MuseArt AI](https://aizxs.com/tool/museart-ai) — MuseArt AI 是一站式 AI 图像与视频创作平台
+- [AirBrush](https://aizxs.com/tool/airbrush) — AirBrush 是基于 AI 技术的照片和视频编辑工具
+- [KomikoAI](https://aizxs.com/tool/komikoai) — KomikoAI 是 AI 动漫内容创作平台
+- [椒图AI](https://aizxs.com/tool/jiaotu-ai) — 椒图AI 是武汉枫潮科技推出的 AI 智能修图智能体，定位为「一句话 P 图」的中文修图解决方案
+- [insMind](https://aizxs.com/tool/insmind) — insMind 是稿定面向全球市场推出的新一代 AI 图片编辑工具
+- [imgAK](https://aizxs.com/tool/imgak) — imgAK 是强大的在线 AI 图像处理工具，专注于通过 AI 技术修复和增强图像，让模糊、破损的老照片重焕新生
+- [堆友AI商品图](https://aizxs.com/tool/duiyou-ai-product) — 堆友 AI 商品图是堆友 AI 推出的 AI 商品图生成工具
+- [Marble](https://aizxs.com/tool/marble) — Marble 是 World Labs 推出的 3D 世界生成平台
+- [造点AI](https://aizxs.com/tool/zaodian-ai) — 造点 AI 是阿里旗下夸克团队推出的 AI 图像与视频创作平台，提供网页版和手机 APP
+- [绘蛙AI转3D](https://aizxs.com/tool/ai3d) — 绘蛙 AI 转 3D 是绘蛙推出的「平铺转 3D」功能，能将服装平铺图快速转换为 3D 立体展示图
+- [妙话AI](https://aizxs.com/tool/miaohua-ai) — 妙话 AI 是专为普通用户与内容创作者设计的创意图片生成工具
+- [光子AI抠图](https://aizxs.com/tool/guangzi-cutout) — 光子 AI 抠图是光子 AI 推出的 AI 图片背景抠除工具
+- [妙思](https://aizxs.com/tool/miao-si) — 妙思是腾讯广告推出的基于腾讯混元大模型的一站式 AI 广告创意平台
+- [Holopix AI](https://aizxs.com/tool/holopix-ai) — Holopix AI 是广州光绘科技推出的专为游戏、动漫、插画设计打造的在线 AI 设计平台
+- [Kira](https://aizxs.com/tool/kira) — Kira 是 AI 图像生成与编辑工具
+- [呜哩](https://aizxs.com/tool/wu-li) — 呜哩是阿里巴巴推出的 AIGC 创意生产力平台
+- [BgSub](https://aizxs.com/tool/bgsub) — BgSub 是一个完全免费的在线 AI 抠图工具，使用先进的人工智能技术，自动替换图像的背景
+- [Img.Upscaler](https://aizxs.com/tool/imgupscaler) — Img.Upscaler 是一个在线的智能 JPG/PNG 图片放大器
+- [VanceAI Image Resizer](https://aizxs.com/tool/vanceai-image-resizer) — VanceAI Image Resizer 是 VanceAI 推出的在线图片尺寸调整工具
+- [WHEE](https://aizxs.com/tool/whee) — WHEE 是美图公司基于自研视觉大模型 MiracleVision 推出的 AI 图片和绘画创作平台，于 2023 年正式上线
+- [Bing Image Creator](https://aizxs.com/tool/bing-image-creator) — Bing Image Creator 是微软推出的AI图片生成工具
+- [顽兔抠图](https://aizxs.com/tool/wan-tu-kou-tu) — 顽兔抠图是阿里巴巴推出的免费在线智能抠图工具，专门帮电商卖家、设计师以及普通用户快速去除图片背景
+- [Background Eraser](https://aizxs.com/tool/background-eraser) — Background Eraser 是 Magic Studio 推出的一款在线图片背景移除工具
+- [羚珑](https://aizxs.com/tool/ling-long-2) — 羚珑是京东推出的AI电商营销设计工具，专门帮商家解决商品图片处理和营销物料设计的问题
+- [绘蛙AI消除](https://aizxs.com/tool/hui-wa-ai-xiao-chu) — 绘蛙AI消除是阿里巴巴旗下绘蛙平台推出的 AI 修图工具，专注做一件事：帮你把图片里不要的东西去掉
+- [美图设计室](https://aizxs.com/tool/mei-tu-she-ji-shi) — 美图设计室是美图公司推出的一个AI设计平台，专门帮商家和内容创作者解决视觉内容生产问题
+- [Upscale.media](https://aizxs.com/tool/upscalemedia) — Upscale.media 是由 Pixel Bin 公司推出的一款 AI 图片放大工具
+- [Palette](https://aizxs.com/tool/palette) — 老相册里那张泛黄的合影、街角随手拍下的黑白街景、纪录片里被刻意保留的银盐质感照片——当这些影像只能停留在单色的灰度里时
+- [美图商拍](https://aizxs.com/tool/mei-tu-shang-pai) — 开淘宝店三年的王老板，每次大促前都要面对同一个难题:同一款衣服，白色、黑色、燕麦色三个颜色 SKU，需要拍三套上身图
+- [秒画](https://aizxs.com/tool/miao-hua) — AI 绘画的真正拐点，不是「画得像」,而是「画得像你想让它像的那样」
+- [LiblibAI抠图](https://aizxs.com/tool/liblibai-2) — 商品图片拍好了，背景却总是乱糟糟?繁琐的抠图操作对不会 Photoshop 的电商卖家来说，几乎成了上架前的第一道门槛
+- [LiblibAI电商营销](https://aizxs.com/tool/liblibai-3) — 做电商的人都懂:上架前最头疼的不是写文案，而是出图
+- [LiblibAI去水印](https://aizxs.com/tool/liblibai-4) — 辛辛苦苦找到一张合适的素材图，结果图片右下角明晃晃挂着一个网站水印;或者从供应商那里拿到的产品图，中间印着别的品牌 Logo
+- [绘蛙AI](https://aizxs.com/tool/ai) — 服装电商最贵的成本不是面料，是模特、摄影、后期
+- [Pavo](https://aizxs.com/tool/pavo) — 拍短视频最难的不是剪辑，而是从零把一个想法变成有角色、有分镜、有镜头的完整剧本
+- [highreach](https://aizxs.com/tool/highreach) — 做电商的朋友大概都有过这种体会：商品图拍好了，短视频素材还得找人做，找人做花钱花时间，自己学剪辑又太费精力
+- [蜂鸟AI](https://aizxs.com/tool/ai-3) — 做跨境电商的朋友，有没有被这些问题折磨过——产品图片要翻译成十几种语言，手动PS排版累到吐
+- [Exactly.ai](https://aizxs.com/tool/exactlyai) — 想象一下：你花了好几年打磨出独特的绘画风格，结果网上随便一搜，一堆AI生成图长得跟你的作品几乎一个样——但那不是你的
+- [妙办画板](https://aizxs.com/tool/miao-ban-hua-ban) — 做方案没思路、画流程图太费时间——如果你也遇到过这些问题，妙办画板可能就是你要的那个答案
+- [问问小宇宙](https://aizxs.com/tool/wen-wen-xiao-yu-zhou) — 你有没有过这种感觉——想听播客找点资料，但翻遍了节目列表也不知道从哪下手？
+- [Loom](https://aizxs.com/tool/loom) — Loom 是一款主打异步视频沟通的屏幕录制工具，近几年在远程办公圈子里用的人越来越多
+- [云幕同声](https://aizxs.com/tool/yun-mu-tong-sheng) — 做短视频出海，内容翻译是绕不过去的一道坎
+- [稿定AI社区](https://aizxs.com/tool/ai-14) — 稿定AI社区是稿定设计平台推出的AI创意社区，定位为设计Agent与AIGC设计案例聚合地
+- [WisPaper](https://aizxs.com/tool/wispaper) — WisPaper 是复旦大学团队推出的 AI 学术搜索与文献阅读工具，主打帮助研究人员快速定位文献、扫清语言障碍、提炼核心内容
+- [飞书多维表格](https://aizxs.com/tool/fei-shu-duo-wei-biao-ge) — 飞书多维表格是字节跳动旗下飞书平台推出的表格形态协作与数据管理工具
+- [吐司AI高清](https://aizxs.com/tool/ai-7) — 吐司AI高清是吐司TusiArt平台推出的一款专注于图片画质提升与高清修复的在线工具
+- [吐司AI抠图](https://aizxs.com/tool/ai-10) — 吐司AI抠图是吐司TusiArt推出的在线智能抠图工具，基于ComfyUI Workflow实现
+- [腾讯混元3D](https://aizxs.com/tool/3d) — 腾讯混元3D是腾讯推出的一站式3D内容生产AI创作平台
+- [千图网](https://aizxs.com/tool/qian-tu-wang) — 千图网是在线设计图片素材平台，网址为 https://www.58pic.com/
+- [音剪](https://aizxs.com/tool/yin-jian) — 音剪是喜马拉雅推出的在线AI音频创作平台，定位为一站式音频工具箱，主打从文字内容到成品音频的完整制作流程
+- [Logoai](https://aizxs.com/tool/logoai) — LogoAI是一个在线AI品牌建设平台，核心功能是帮助用户快速生成与品牌风格相匹配的Logo设计
+- [图生生](https://aizxs.com/tool/tu-sheng-sheng) — 电商商家在日常运营中需要持续产出大量商品展示图
+- [蚂上有创意](https://aizxs.com/tool/ma-shang-you-chuang-yi) — 蚂上有创意是支付宝官方推出的AI设计工具，定位为面向商家的一站式AI电商设计平台
+- [易可图](https://aizxs.com/tool/yi-ke-tu) — 易可图是面向电商卖家的在线图片编辑与海报设计平台，主打「零基础也能出图」
+- [飞影数字人](https://aizxs.com/tool/fei-ying-shu-zi-ren) — 飞影数字人是面向短视频创作者与电商主播的 AI 数字人平台，定位「无限克隆高保真数字人形象与声音」
+- [Pixelcut](https://aizxs.com/tool/pixelcut) — Pixelcut 是面向电商卖家的 AI 图像与视频编辑平台，定位「工作室级 AI 视觉工具」
+- [Remove.bg](https://aizxs.com/tool/removebg) — Remove.bg 是全球最知名的 AI 抠图工具，定位「一键去除图片背景」
+- [Stability AI](https://aizxs.com/tool/stability-ai) — Stability AI 是领先的开源 AI 图像生成公司，定位「开源 AI 模型供应商」
+- [Pollinations.AI](https://aizxs.com/tool/pollinations-ai-2) — Pollinations.AI 由 Thomas Zeman 及其团队于 2021 年在德国柏林创立
+- [Erase.bg](https://aizxs.com/tool/erasebg) — Erase.bg 是 Icons8(全球知名图标素材库)2020 年推出的 AI 抠图工具，定位是「免费 AI 背景移除器」
+- [PicWish](https://aizxs.com/tool/picwish) — PicWish 是 2021 年上线的免费在线 AI 图片编辑工具，定位是「人人都能用的 AI 图像处理工具」
+- [美图抠图](https://aizxs.com/tool/meitu-koutu) — 美图抠图是美图公司（Meitu）2021 年推出的 AI 抠图工具，定位是「专业级 AI 抠图 + 美图生态集成」
+- [稿定AI抠图](https://aizxs.com/tool/gaoding-koutu) — 稿定 AI 抠图是稿定设计（gaoding.com）2022 年推出的 AI 抠图工具
+- [Flux](https://aizxs.com/tool/flux) — Flux 是 Black Forest Labs 2024 年推出的开源图像生成模型
+- [Vizcom](https://aizxs.com/tool/vizcom) — Vizcom(vizcom.ai)是 Vizcom Inc. 2022 年推出的 AI 3D 概念设计工具
+- [Bria](https://aizxs.com/tool/bria) — Bria AI(bria.ai)是 Bria Inc. 2020 年推出的商用 AI 图像生成 + 编辑 API 平台
+- [ThumbnailCreator](https://aizxs.com/tool/thumbnailcreator) — ThumbnailCreator 是面向 YouTube 创作者的 AI 缩略图生成工具
+- [Magic Studio](https://aizxs.com/tool/magic-studio) — Magic Studio 是面向非设计师的 AI 图像编辑平台，定位是「让你在任何场景都能做出专业图」
+- [Repairit](https://aizxs.com/tool/repairit) — Repairit 是万兴科技出品的 AI 文件修复工具，定位是「用 AI 修复损坏/老旧/格式异常的音视频、照片、文档」
+- [Reve Image](https://aizxs.com/tool/reve-image) — Reve Image 是面向设计师和创作者的 AI 图像生成工具
+- [Scenario](https://aizxs.com/tool/scenario) — Scenario 是面向游戏开发者和数字艺术家的 AI 资产生成平台
+- [Photo AI](https://aizxs.com/tool/photo-ai) — Photo AI 是面向个人用户的 AI 头像生成工具
+- [Magic Eraser](https://aizxs.com/tool/magic-eraser) — Magic Eraser 是面向普通用户和电商卖家的 AI 图像擦除工具
+- [AI Art Style Reference](https://aizxs.com/tool/ai-art-style-reference) — AI Art Style Reference 是面向 AI 绘画创作者的视觉风格参考平台
+- [SkildArt](https://aizxs.com/tool/skildart) — SkildArt 是一站式 AI 视觉创作平台
+- [Nano Banana](https://aizxs.com/tool/nano-banana) — Nano Banana(Gemini 2.5 Flash Image)是谷歌推出的图像生成与编辑模型
+- [LocalBanana](https://aizxs.com/tool/localbanana) — LocalBanana 是专注于 AI 图像 Prompt 收集与结构化的平台
+- [AlphaVow](https://aizxs.com/tool/alphavow) — AlphaVow 是专为设计师、摄影师与电商团队打造的一站式 AI 批量图像处理工具
+- [妙呀](https://aizxs.com/tool/miaoya) — 妙呀是大麦娱乐与阿里 Token Foundry 联合推出的潮玩创作者 AI 设计平台
+- [Qwen-Image-2.1](https://aizxs.com/tool/qwen-image-2-1) — 阿里开源 7B 图像模型，原生透明通道+多参考图，本地可跑、抠图免步骤 · **免费**
+- [CherryShot](https://aizxs.com/tool/cherryshot) — 一张产品图生成整套电商物料的 AI 摄影工具，含模特图/场景图/视频广告 · **免费增值**
+- [Magnific](https://aizxs.com/tool/magnific) — 原 Freepik，现已更名 Magnific：素材库+AI 出图+高清放大的创作平台，按 credits 计费 · **付费**
+- [AI漫画翻译器](https://aizxs.com/tool/ai-manga-translator) — AI 漫画翻译器：100+ 语言互译，自动识别气泡并回填排版，按张计费约 ¥0.02 起 · **免费增值**
+- [千鹿AI画布](https://aizxs.com/tool/qianlu-ai-canvas) — 无限画布上的 AI 图像/视频协作工具，注册送 200 算力，团队可协同出片 · **免费增值**
+- [Frameow](https://aizxs.com/tool/frameow) — 上传猫咪照片就能生成 AI 数字肖像，163 个预设风格，新用户免费、下载无水印 · **免费增值**
+
+## AI 写作工具
+
+- [Notion AI](https://aizxs.com/tool/notion-ai) — Notion AI 是 Notion 推出的内置 AI 助手
+- [讯飞绘文](https://aizxs.com/tool/xun-fei-hui-wen) — 讯飞绘文是科大讯飞推出的 AI 写作助手，基于讯飞星火大模型构建，专注于公文、新闻、营销、教育等场景的中文写作辅助
+- [蛙蛙写作](https://aizxs.com/tool/wa-wa-xie-zuo) — 蛙蛙写作是面向小说、网文创作者的 AI 写作助手
+- [DeepSeek](https://aizxs.com/tool/deepseek) — DeepSeek 是深度求索公司推出的大语言模型
+- [笔目鱼](https://aizxs.com/tool/bimuyu) — 笔目鱼英文论文写作器是小绿鲸团队推出的 AI 学术写作辅助工具
+- [Magic Write](https://aizxs.com/tool/magic-write) — Magic Write 是 Canva 旗下 AI 文案生成器
+- [献丑AI](https://aizxs.com/tool/xianchou-ai) — 献丑AI是首个 AI 视频开源社区，也是专业级 AI 视频创作工具
+- [丹青妙笔](https://aizxs.com/tool/dan-qing-miao-bi) — 丹青妙笔是专为体制内办公场景打造的 AI 公文写作助手，采用 Word 式操作界面，让用户无需学习即可上手使用
+- [创飞写作](https://aizxs.com/tool/chuang-fei-xie-zuo) — 创飞写作是新一代智能 AIGC 写作调度平台
+- [超级小说家](https://aizxs.com/tool/chao-ji-xiao-shuo-jia) — 超级小说家（36 麻）是面向网络小说作者的 AI 创作平台，支持一键生成大纲、章节、人物设定等完整小说内容
+- [材料星AI](https://aizxs.com/tool/cailiao-xing-ai) — 材料星AI 是专为秘书工作设计的 AI 写作工具
+- [PaperXie智能写作](https://aizxs.com/tool/paperxie) — PaperXie 智能写作是 AI 学术写作辅助工具，主要面向学生和学者，提供从论文构思到答辩的全流程服务
+- [落笔AI写作](https://aizxs.com/tool/luobi-ai) — 落笔AI 写作是专注于小说网文创作的 AI 写作工具
+- [墨问](https://aizxs.com/tool/mowen) — 墨问是专为创作者设计的 AI 笔记工具，提供便捷的写作与编辑功能
+- [Rubriq](https://aizxs.com/tool/rubriq) — Rubriq 是专为科研人员设计的 AI 学术论文润色与 AI 翻译工具
+- [讯飞文书](https://aizxs.com/tool/xun-fei-wen-shu) — 讯飞文书是科大讯飞推出的 AI 公文写作助手，提供全流程写作辅助
+- [FeelFish](https://aizxs.com/tool/feelfish) — FeelFish 是专为小说创作者设计的 AI 写作工具，通过智能辅助提升创作效率和质量
+- [GetDraft](https://aizxs.com/tool/getdraft) — GetDraft 是得到推出的多 AI 专家协作 AI 写作工具，能帮助用户高效地将想法转化为初稿
+- [千页小说AI](https://aizxs.com/tool/qianye-novel) — 千页小说是专注提供 AI 小说写作服务的平台
+- [公文宝](https://aizxs.com/tool/gong-wen-bao) — 公文宝是专为体制内工作者打造的 AI 公文写作专家，告别加班熬夜写材料，一键生成「权威、规范」的初稿
+- [华文笔杆](https://aizxs.com/tool/huawen-biggan) — 华文笔杆是专业的 AI 公文写作工具，专为政企笔杆子设计，提供从起草到定稿的全流程支持
+- [灵夕翻译](https://aizxs.com/tool/lingxi-translate) — 灵夕翻译是 AI 智能文档翻译工具，提供高质量的文档翻译服务
+- [灵犀速写](https://aizxs.com/tool/lingxi-suxie) — 灵犀速写是 AI 小说创作工具，能帮助作者提高写作效率和创新故事内容
+- [Belin Doc](https://aizxs.com/tool/belin-doc) — Belin Doc 是免费无限制的 AI 文档翻译工具，支持 PDF、DOCX、PPTX、TXT、EPUB 等多种格式
+- [剧云](https://aizxs.com/tool/ju-yun) — 剧云是专注中文剧本创作的云端 AI 智能平台，为编剧、导演及影视团队提供从创意构思到成稿交付的全流程创作解决方案
+- [树熊写作](https://aizxs.com/tool/shu-xiong-xie-zuo) — 树熊写作是树熊 AI 推出的 AI 智能写作工具，基于先进的 AI 技术帮助用户快速高效地完成各类文档写作任务
+- [创一AI](https://aizxs.com/tool/creatifyone) — 创一AI(CreatifyOne)是 AI 编剧智能体平台，专为短剧创作全流程赋能
+- [橙篇](https://aizxs.com/tool/cheng-pian) — 橙篇是由百度推出的一款 AI 写作工具，基于百度文库的庞大内容库和尖端 AI 技术，为用户提供了强大的长文件处理和内容创作能力
+- [Compose AI](https://aizxs.com/tool/compose-ai) — Compose AI 是一个免费的 Chrome 插件
+- [光速写作](https://aizxs.com/tool/guang-su-xie-zuo) — 光速写作是作业帮出品、好课帮助公司研发的AI写作工具，专门帮学生和打工人快速搞定各种文字材料
+- [Reword](https://aizxs.com/tool/reword) — Reword是一款专注于AI文章写作的在线工具，旨在帮助内容创作者、营销人员和企业快速生成高质量的英文文章和博客内容
+- [秘塔写作猫](https://aizxs.com/tool/mi-ta-xie-zuo-mao) — 秘塔写作猫是由秘塔科技自主研发的新一代交互式AI写作辅助平台，2020年前后正式上线，专为中英文写作场景设计
+- [白日梦](https://aizxs.com/tool/bai-ri-meng) — 白日梦AI是光魔科技推出的AI视频创作平台，主打通过文字描述直接生成视频内容
+- [Grammarly](https://aizxs.com/tool/grammarly) — Grammarly 是一款 AI 写作辅助工具，专门帮你检查英文写作中的语法、拼写、标点问题，还能给出风格优化建议
+- [AI论文君](https://aizxs.com/tool/ailunwenjun-2) — AI论文君是一款专门针对论文写作场景的 AI 工具
+- [讯飞写作](https://aizxs.com/tool/xun-fei-xie-zuo) — 讯飞写作是科大讯飞推出的 AI 写作助手，基于讯飞星火大模型技术，专门为提升写作效率而设计
+- [万彩AI](https://aizxs.com/tool/wan-cai-ai) — 万彩AI是广州万彩信息技术有限公司推出的AI文案创作工具，专门帮人解决「不知道写什么」和「写不出来」的痛点
+- [库宝AI工作助手](https://aizxs.com/tool/ku-bao-ai-gong-zuo-zhu-shou-2) — 库宝AI工作助手是千库网推出的多功能AI创作平台
+- [智搜](https://aizxs.com/tool/zhi-sou-2) — 智搜是 Giiso（智搜信息技术有限公司）推出的 AI 内容创作辅助工具，定位是帮写作者快速搞定稿件的智能写作机器人
+- [Rytr](https://aizxs.com/tool/rytr) — Rytr 是一款专注于短内容创作的 AI 写作助手，和很多大而全的写作工具不同，它的目标很明确：帮你在几分钟内搞定各种日常文案
+- [千笔AI论文](https://aizxs.com/tool/qian-bi-ai-lun-wen) — 千笔AI论文（原名AIPaperPass）是国内较早推出的一款AI论文写作平台，主打「免费改稿」这一差异化定位
+- [Copymatic](https://aizxs.com/tool/copymatic) — Copymatic 是一个 AI 文案生成工具，你给它一个标题或简单描述，它在几秒钟内就能帮你写出一篇完整的文案
+- [写作蛙](https://aizxs.com/tool/xie-zuo-wa) — 写作蛙是智谱AI推出的免费智能写作工具，专为需要快速生成文案的用户打造
+- [WPS智能写作](https://aizxs.com/tool/wps-zhi-neng-xie-zuo) — WPS智能写作是金山办公官方推出的AI写作辅助工具
+- [MidReal](https://aizxs.com/tool/midreal) — MidReal 是一款 AI 互动式小说文本生成工具，它最大的特点就是「你说的每一句话都能改变故事走向」
+- [Peppertype.ai](https://aizxs.com/tool/peppertypeai) — 内容营销的工业化拐点，不是「写得更快」,而是「让 AI 成为团队的第一位文案」
+- [Copysmith](https://aizxs.com/tool/copysmith) — AI 文案的真正价值，不是替代文案，而是让一个文案顶过去五个用
+- [Content at Scale](https://aizxs.com/tool/content-at-scale) — SEO 内容赛道的真正分水岭，不是写得快，而是「让搜索引擎和读者都以为是真人写的」
+- [文思助手](https://aizxs.com/tool/wen-si-zhu-shou) — 「又要写季度总结了，脑子里一团浆糊，半天憋不出三行字……」相信这是很多职场人年底最真实的感受
+- [66AI论文](https://aizxs.com/tool/66ai) — 每到毕业季，「论文」两个字就像一块巨石，压得无数大学生夜不能寐
+- [笔灵AI小说](https://aizxs.com/tool/ai-2) — 还在为写小说卡文而彻夜难眠？大纲写到一半脑子一片空白？
+- [腾讯交互翻译](https://aizxs.com/tool/teng-xun-jiao-hu-fan-yi) — 腾讯交互翻译（TranSmart
+- [会译](https://aizxs.com/tool/hui-yi) — 会译（huiyiai.net）是武汉夜莺科技有限公司旗下一款主打「对照式翻译」的 AI 智能翻译工具
+- [有道翻译·AI写作](https://aizxs.com/tool/ai-11) — 有道翻译 AI 写作是有道公司推出的 AI 写作助手
+- [Copy.ai](https://aizxs.com/tool/copyai) — Copy.ai 是面向 GTM（Go-To-Market）团队的 AI 写作平台
+- [Jasper](https://aizxs.com/tool/jasper-2) — Jasper AI 是面向企业的 AI 营销内容平台，定位「营销团队的 AI 副驾」
+- [Frase](https://aizxs.com/tool/frase) — Frase 由 Tomas Ratia 在 2016 年于阿根廷布宜诺斯艾利斯创立，是 AI SEO 内容创作领域的代表产品
+- [Anyword](https://aizxs.com/tool/anyword) — Anyword 是面向营销人员的 AI 写作平台，定位「AI 加持的营销文案 + 转化率优化」
+- [ProWritingAid](https://aizxs.com/tool/prowritingaid) — ProWritingAid 是面向写作者的 AI 写作辅助工具，定位「AI 加持的英语写作教练」
+- [Wordtune](https://aizxs.com/tool/wordtune) — Wordtune 由 2020 年创立，是 AI 写作辅助领域的代表产品
+- [ima.copilot(腾讯 ima)](https://aizxs.com/tool/ima-copilot) — 腾讯 ima.copilot(简称 ima) 是腾讯 2025 年推出的 AI 智能工作台，基于腾讯混元大模型
+- [CueMe(夸克)](https://aizxs.com/tool/cueme) — CueMe 是阿里夸克 2025 年底推出的 AI 智能对话助手与写作工具，基于阿里通义大模型
+- [Moonbeam](https://aizxs.com/tool/moonbeam) — Moonbeam 是 2023 年上线的长文 AI 写作工具，定位是「专业长文 AI 写作助手」
+- [QuillBot](https://aizxs.com/tool/quillbot) — QuillBot(quillbot.com)是 QuillBot Inc. 2017 年推出的 AI 写作润色工具
+- [Cohere](https://aizxs.com/tool/cohere) — Cohere(cohere.com)是 Cohere Inc. 2020 年推出的企业级 NLP 大模型平台
+- [Lex](https://aizxs.com/tool/lex) — Lex 是一款把 AI 内嵌到写作界面里的文字处理器，主打「在打字的当下就能让 AI 帮你改、写、想」
+- [Smodin](https://aizxs.com/tool/smodin) — Smodin 是面向英文写作者的 AI 写作工具，定位是「AI 帮你写、改、写得更像人、写完查重」
+- [Writer](https://aizxs.com/tool/writer) — Writer 是面向企业的 AI 写作平台，定位是「把 AI 写作从工具升级为企业级生产力」
+- [HyperWrite](https://aizxs.com/tool/hyperwrite) — HyperWrite 是面向个人和企业的 AI 写作助手，定位是「把 AI 写作从补全升级为完整文档生成 + 跨应用自动化」
+- [Yomu](https://aizxs.com/tool/yomu) — Yomu 是面向学术写作者的 AI 写作助手
+- [DeepL Write](https://aizxs.com/tool/deepl-write) — DeepL Write 是 DeepL 推出的 AI 写作助手
+- [Spell](https://aizxs.com/tool/spell) — Spell 是面向职场人的 AI 文档生成工具
+- [Trolly.ai](https://aizxs.com/tool/trolly-ai) — Trolly.ai 是面向 SEO 团队和内容创作者的 AI 文章生成工具
+- [LAIKA](https://aizxs.com/tool/laika-ai) — LAIKA 是面向内容创作者和营销人员的 AI 文本个性化平台
+- [ChatGPT Writer](https://aizxs.com/tool/chatgpt-writer) — ChatGPT Writer 是面向个人和企业的 AI 邮件写作浏览器插件
+- [editGPT](https://aizxs.com/tool/editgpt) — editGPT 是面向内容创作者的 AI 写作助手浏览器插件
+- [AdaptOrDie](https://aizxs.com/tool/adaptordie) — AdaptOrDie 是面向内容创作者和营销人员的 AI 新闻聚合平台，定位是"用 AI Agent 自动监控全球新闻源
+- [Jasper AI](https://aizxs.com/tool/jasper-ai) — Jasper 是面向营销团队的 AI Agent 平台，定位是「用 AI Agents 自动执行端到端的营销工作流」
+- [01Agent](https://aizxs.com/tool/01agent-ai-tool) — 01Agent 是集生成、排版、编辑、发布于一体的 AI 图文创作智能体
+- [68爱写](https://aizxs.com/tool/68aixie) — 68爱写是一款 AI 论文写作平台
+- [文优小助](https://aizxs.com/tool/wenyouxiaozhu) — 文优小助是面向大学生、硕博生及科研人员的 AI 学术写作辅助工具，定位为「学术写作工作台」
+- [Tokera AI](https://aizxs.com/tool/tokera) — Tokera AI 是面向品牌商家与内容创作者的一站式 AI 策略内容智能体
+
+## AI 设计工具
+
+- [Canva](https://aizxs.com/tool/canva) — Canva 是澳大利亚 Canva 公司推出的在线图形设计平台
+- [Figma AI](https://aizxs.com/tool/figma-ai) — Figma AI 是 Figma 平台推出的原生 AI 设计工具集
+- [Recraft AI](https://aizxs.com/tool/recraft-ai) — Recraft AI 是无限 AI 画板
+- [墨刀AI](https://aizxs.com/tool/modao-ai) — 墨刀AI 是国内知名产品设计协作平台「墨刀」最新推出的 AI 产品原型设计助手，帮助产品设计人高效实现和落地创意
+- [稿定AI](https://aizxs.com/tool/gaoding-ai) — 稿定 AI 是稿定设计推出的在线多功能 AI 设计工具
+- [Huemint](https://aizxs.com/tool/huemint) — Huemint 是 AI 配色工具，根据设计上下文生成和谐的配色方案，提供多种设计模板（如图标、网页、渐变色等）
+- [Pictographic](https://aizxs.com/tool/pictographic) — Pictographic 是一个 AI 驱动的插图资源和生成平台，为设计师和创意工作者提供丰富的视觉资源库
+- [Logo Diffusion](https://aizxs.com/tool/logo-diffusion) — Logo Diffusion 是利用生成式 AI 智能生成和创建 Logo 标志的工具，无需掌握专业的设计能力
+- [Open Design](https://aizxs.com/tool/open-design) — Open Design 是开源本地优先的 AI 设计工作空间，定位为 Claude Design 的替代品
+- [Seede AI](https://aizxs.com/tool/seede-ai) — Seede AI 是面向普通人的 AI 原生设计工具，只需提供文字内容，无需写 Prompt 或懂设计
+- [PagePop](https://aizxs.com/tool/pagepop) — PagePop 是一站式 AI 创作和设计平台，可以帮助用户创建海报、电商视觉、传单、文档等，节省时间的同时提升每个设计的品质
+- [Haimeta](https://aizxs.com/tool/haimeta) — Haimeta 是面向创作者、品牌、电商及设计团队的一站式 AI 创意平台，聚合了 30+ 顶级 AI 模型
+- [Omma](https://aizxs.com/tool/omma) — Omma 是 Spline 推出的 AI 3D 内容智能创作平台，通过自然语言描述可自动生成 3D 交互网页、游戏和应用
+- [Miora](https://aizxs.com/tool/miora) — Miora 是腾讯推出的 AI 原生设计协作工具
+- [Ardot](https://aizxs.com/tool/ardot) — Ardot 是腾讯推出的 AI 智能设计工具，定位「Figma + Lovart」结合体
+- [QuiverAI](https://aizxs.com/tool/quiverai) — QuiverAI 是专注矢量图形生成的 AI 设计工具
+- [堆友Agent](https://aizxs.com/tool/duiyou-agent) — 堆友Agent 是堆友AI推出的 AI 设计智能体
+- [ArtarchStudio](https://aizxs.com/tool/artarchstudio) — ArtarchStudio 是一站式 AI 内容创作画布平台，集成图像生成、视频生成及创意设计工具于一体
+- [GemHues](https://aizxs.com/tool/gemhues) — GemHues(中文名:宝图设计)是面向电商卖家的 AI 商品视觉内容生成平台，覆盖「图 + 视频」全链路
+- [咖图AI](https://aizxs.com/tool/katu-ai) — 咖图AI 是专业级 AI 图像设计平台，搭载 NanoBanana Pro 模型，解决传统 AI 出图后无法编辑的痛点
+- [Tavafa塔维法](https://aizxs.com/tool/tavafa) — Tavafa 塔维法是新一代 AI 在线设计平台，集 AI 生成、AI 修图与 PS 级像素精修于一体
+- [NarraLand](https://aizxs.com/tool/narraland) — NarraLand(叙事之境)是 AI 智能演示内容创作平台，能帮助用户将自然语言描述快速转化为设计精美、排版专业的视觉作品
+- [Calicat](https://aizxs.com/tool/calicat) — Calicat 是 ProcessOn 团队推出的一站式产设研协作平台
+- [Diagrimo](https://aizxs.com/tool/diagrimo) — Diagrimo 是 Tenorshare AI 提供的智能 AI 图表生成工具，也是功能强大的图表制作器
+- [GemDesign](https://aizxs.com/tool/gemdesign) — GemDesign 是 AI 原生的高保真原型设计工具
+- [UXbot](https://aizxs.com/tool/uxbot) — UXbot 是 AI 产品设计工具，能快速将创意转化为完整的视觉设计和交互式原型
+- [AI设计神器](https://aizxs.com/tool/logos-c) — AI 设计神器是一站式创意图片设计编辑平台，能快速生成设计方案，如 Logo、海报、名片等，支持进行图片编辑，如裁剪、去背景等
+- [燕雀光年](https://aizxs.com/tool/yanque-ai) — 燕雀光年是在线 AI LOGO 设计工具，帮助用户快速生成高质量的品牌标志
+- [Fast3D](https://aizxs.com/tool/fast3d) — Fast3D 是强大的 AI 3D 模型生成工具，能通过简单的文字描述或图片输入，在几秒钟内生成高质量的 3D 模型
+- [美间AI](https://aizxs.com/tool/meijian-ai) — 美间 AI 是新一代 AI 画布式创意设计平台
+- [造好物](https://aizxs.com/tool/zaohaowu) — 造好物是全球首个一站式 AI 造物平台，能帮用户快速实现从创意灵感到实物
+- [Ribbi](https://aizxs.com/tool/ribbi) — Ribbi 是专为设计师打造的自进化创意 AI Agent，无需本地部署
+- [Style3D](https://aizxs.com/tool/style3d) — Style3D 是专为设计师和品牌打造的 AI 服装设计工具
+- [图宇宙](https://aizxs.com/tool/tu-yu-zhou) — 图宇宙是「Nolibox 计算美学」团队打造的国产智能设计平台，核心技术是一套自主研发的智能设计引擎
+- [Wegic](https://aizxs.com/tool/wegic) — Wegic是由即时设计推出的AI网页设计和开发工具，2024年上线，主打「对话式建站」概念
+- [Pic Copilot](https://aizxs.com/tool/pic-copilot) — Pic Copilot 是阿里巴巴国际站团队推出的 AIGC 商品营销图制作工具，专门为跨境电商卖家和海外商家打造
+- [Eva Design System](https://aizxs.com/tool/eva-design-system) — Eva Design System 是一款在线智能配色工具，专门帮设计师解决「这个颜色配什么色好」这个问题
+- [千图设计室AI海报](https://aizxs.com/tool/hihaibao) — 千图设计室AI海报是千图网在 2024 年推出的 AI 营销物料生成工具
+- [Ilus AI](https://aizxs.com/tool/ilus-ai-2) — Ilus AI 是一款 AI 插画生成工具，专门帮不会画画但又需要插图的人解决问题
+- [Logomaster.ai](https://aizxs.com/tool/logomasterai-2) — Logomaster.ai 是一款在线 AI 生成 Logo 的工具，专门帮没有设计功底的普通人快速做出专业水准的 Logo
+- [Framer AI](https://aizxs.com/tool/framer-ai-2) — Framer AI 是一款由 Framer 推出的 AI 网站生成工具
+- [Magic Design](https://aizxs.com/tool/magic-design) — Magic Design 是 Canva 推出的 AI 智能设计工具，目前处于 Beta 阶段，完全免费向所有用户开放
+- [Microsoft Designer](https://aizxs.com/tool/microsoft-designer) — Microsoft Designer是微软推出的AI设计工具
+- [FigJam AI](https://aizxs.com/tool/figjam-ai-2) — FigJam AI 是在线设计协作平台 Figma 为其白板工具 FigJam 推出的 AI 套件
+- [Collov AI](https://aizxs.com/tool/collov-ai-2) — Collov AI 是一款专注于室内设计的 AI 工具，核心功能是把一张房间照片变成设计效果图
+- [智绘设计](https://aizxs.com/tool/zhi-hui-she-ji) — 智绘设计是腾讯推出的多场景智能设计平台，专门为需要快速出图的用户打造
+- [Kittl](https://aizxs.com/tool/kittl) — Kittl 是一款主打 AI 辅助的平面图形设计工具，对标海外市场上热门的 Canva，主打「零门槛做设计」这张牌
+- [模袋云AI](https://aizxs.com/tool/mo-dai-yun-ai) — 模袋云AI是模袋云平台推出的建筑领域AI创作工具，专注于为建筑师、设计师以及建筑爱好者提供智能化的出图和模型训练能力
+- [创客贴AI](https://aizxs.com/tool/chuang-kit-ai) — 在公众号里配一张好看的封面图
+- [千鹿AI](https://aizxs.com/tool/qian-lu-ai) — 做跨境电商，最费时间的两件事是什么？拍照、修图
+- [爱设计](https://aizxs.com/tool/ai-she-ji) — 做一张图片设计的海报过去需要打开 Photoshop，然后调图层、改色板、抠图、调透明度，一个熟练设计师也得半小时
+- [豆绘AI](https://aizxs.com/tool/dou-hui-ai) — 做设计师的同行最懂这种痛:接到一个项目，要从零开始画草图、调色彩、试方案、改细节，光前期方案就要花一两周
+- [笔格设计](https://aizxs.com/tool/bi-ge-she-ji) — 笔格设计是一款在线AI图片设计工具，官网地址是 bige.show
+- [Spline AI](https://aizxs.com/tool/spline-ai) — Spline AI 是 Spline 推出的浏览器端 3D 设计协作平台，定位「一体化 3D 与设计工作流」
+- [Uizard](https://aizxs.com/tool/uizard) — Uizard 是面向非设计师的 AI UI 设计工具，定位「AI 让 UI 设计变简单」
+- [Khroma](https://aizxs.com/tool/khroma) — Khroma 是面向设计师的 AI 配色工具，定位「用 AI 学习你喜欢的颜色」
+- [Vance AI](https://aizxs.com/tool/vance-ai) — Vance AI 由 2018 年创立，是 AI 图像处理领域的代表产品
+- [Designs AI](https://aizxs.com/tool/designs-ai) — Designs AI 由 2019 年创立，是 AI 综合设计领域的代表平台
+- [魔力工作室](https://aizxs.com/tool/meitu-design) — 魔力工作室（美图设计室/美图设计 kit）是美图公司（Meitu）推出的 AI 智能设计平台
+- [星流AI](https://aizxs.com/tool/xingliu) — 星流 AI(xingliu.art)是 2025 年推出的国产 AI 设计 Agent 工具，定位是「懂你的设计 Agent」
+- [Brandmark](https://aizxs.com/tool/brandmark) — Brandmark(brandmark.io)是 Brandmark.io Inc. 2017 年推出的…
+- [Adobe Firefly](https://aizxs.com/tool/adobe-firefly) — Adobe Firefly(firefly.adobe.com)是 Adobe 2023 年推出的 AI 图像生成模型
+- [Recraft](https://aizxs.com/tool/recraft) — Recraft 是一款专注于矢量图和品牌设计的 AI 图像生成工具，主打「生成的图像天然是矢量、可商用、可二次编辑」
+- [Canva Magic Studio](https://aizxs.com/tool/canva-magic-studio) — Canva Magic Studio 是 Canva 在 2023 年发布的 AI 创意套件
+- [modyfi](https://aizxs.com/tool/modyfi) — modyfi 是面向设计团队的 AI 协作设计平台，定位是「在浏览器中实时多人协作设计 + AI 辅助生成 + 无需下载安装」
+- [FirmOS](https://aizxs.com/tool/firmos-ai) — FirmOS 是面向小型律所和独立律师的 AI 法律业务操作系统
+- [GstarRender AI 渲染](https://aizxs.com/tool/gstarrender) — GstarRender 是浩辰软件 2026 年 8 月发布的 AI 设计生成引擎，面向建筑设计全流程
+
+## AI 音频工具
+
+- [Suno](https://aizxs.com/tool/suno) — Suno 是由 Suno AI 公司开发的 AI 音乐生成工具
+- [ElevenLabs](https://aizxs.com/tool/elevenlabs) — ElevenLabs 是全球领先的 AI 文字转语音平台
+- [NotebookLM](https://aizxs.com/tool/notebooklm) — NotebookLM 是谷歌推出的 AI 笔记应用，基于大型语言模型帮助用户管理和吸收信息，支持上传文档、链接、文本
+- [魔音工坊](https://aizxs.com/tool/moyin-gongfang) — 魔音工坊是一款专业的 AI 配音工具，拥有 800 多款声音和 1000 多种风格，满足从视频配音到有声书的广泛需求
+- [Tunee](https://aizxs.com/tool/tunee) — Tunee 是天谱乐团队推出的首个对话式音乐创作 Agent，以自然语言交互为核心，用户只需描述音乐需求（如风格、情绪、主题）
+- [Notta](https://aizxs.com/tool/notta) — Notta 是语音转文本工具
+- [UniScribe](https://aizxs.com/tool/uniscribe) — UniScribe 是 AI 免费在线音视频转文字平台
+- [MELO音乐](https://aizxs.com/tool/melo) — MELO 音乐是北京灵犀深智科技有限公司推出的国内领先 AI 音乐生成平台
+- [音述AI](https://aizxs.com/tool/yinshu-ai) — 音述AI 是全球首个 AI 音乐社区，致力让每个人都能用音乐表达自我
+- [Nafy AI](https://aizxs.com/tool/nafy-ai) — Nafy AI 是在线 AI 音乐生成器
+- [逗哥配音](https://aizxs.com/tool/douge-peiyin) — 逗哥配音是广州有码科技推出的一站式 AI 配音工具，被誉为「抖音爆款配音始发地」
+- [讯飞译制](https://aizxs.com/tool/xun-fei-yi-zhi) — 讯飞译制是科大讯飞推出的 AI 音视频本地化平台，专注于视频字幕制作、多语种翻译与智能配音服务
+- [万象有声](https://aizxs.com/tool/wan-xiang-you-sheng) — 万象有声是面向有声内容产业的 AI 一站式创作平台，由原「懒人听书」核心团队打造
+- [Vemus未音](https://aizxs.com/tool/vemus) — Vemus未音是腾讯音乐旗下首款一站式 AI 音乐创作工具，零门槛多模态音乐创作，人人都能玩音乐
+- [MeloLab](https://aizxs.com/tool/melolab) — MeloLab 是一站式 AI 音乐生成与编辑平台，支持通过文字、图片、哼唱或音频输入，一键生成带人声的完整歌曲、伴奏及分轨
+- [Flow Music](https://aizxs.com/tool/flow-music) — Flow Music 是 Google Labs 推出的 AI 音乐创作平台
+- [讯飞同传](https://aizxs.com/tool/xun-fei-tong-chuan) — 讯飞同传是科大讯飞推出的专业 AI 同声传译产品
+- [多维视界](https://aizxs.com/tool/duo-wei-shi-jie) — 多维视界是一站式 AI 音视频智能分析平台，将非结构化的音视频内容转化为结构化的知识资产
+- [音秘](https://aizxs.com/tool/yin-mi) — 音秘是百度推出的 AI 播客创作工具，让用户轻松创作个性化播客内容
+- [音潮](https://aizxs.com/tool/yin-chao) — 音潮是全栈自研的 AI 音乐创作平台，用音乐传递美好瞬间
+- [TurboScribe](https://aizxs.com/tool/turboscribe) — TurboScribe 是强大的 AI 音视频转文字工具，专为高效处理音频和视频文件设计
+- [LALAL.AI](https://aizxs.com/tool/lalalai) — LALAL.AI 是 AI 音乐音频处理工具
+- [Udio](https://aizxs.com/tool/udio) — Udio 是一款由前 Google DeepMind 研究人员创立的人工智能音乐生成器，主打「人人皆可创作音乐」的理念
+- [Voicenotes](https://aizxs.com/tool/voicenotes) — Voicenotes 是由 Buy Me a Coffee 的创始人推出的一款智能语音笔记工具
+- [Adobe Podcast](https://aizxs.com/tool/adobe-podcast) — Adobe Podcast 是 Adobe 推出的一款在线 AI 音频录制和编辑平台
+- [Speechify](https://aizxs.com/tool/speechify) — Speechify 是一款主打「听文字」的 AI 工具，帮你把网页、PDF、邮件、书籍甚至拍下来的照片转化成自然的人声朗读出来
+- [Listnr](https://aizxs.com/tool/listnr) — Listnr 是一款 AI 语音合成工具，能把文字变成听起来像真人在说话的音频
+- [Audo Studio](https://aizxs.com/tool/audo-studio-2) — Audo Studio 是一款 AI 音频处理工具，专门解决一个让很多人头疼的问题——录音质量
+- [快转字幕](https://aizxs.com/tool/kzzimu-2) — 快转字幕是广州比高网络科技推出的一款音视频转文字字幕工具，专门帮自媒体工作者解决「给视频加字幕」这个老大难问题
+- [TextToSpeech](https://aizxs.com/tool/texttospeech-2) — TextToSpeech 是一个完全免费的 AI 文字转语音在线工具
+- [Boomy](https://aizxs.com/tool/boomy-2) — Boomy 是一款 AI 驱动的在线音乐创作平台
+- [Lemonaid](https://aizxs.com/tool/lemonaid-2) — Lemonaid（官方名称 Lemonaide）是一款专攻 AI 音乐生成的桌面软件
+- [音虫](https://aizxs.com/tool/yin-chong) — 音虫（SoundBug）是一款由国内团队研发的数字音频工作站（DAW）软件
+- [讯飞听见](https://aizxs.com/tool/xun-fei-ting-jian) — 讯飞听见是科大讯飞推出的 AI 语音转文字工具，核心技术来自科大讯飞在语音识别领域多年的积累
+- [Lyrics Into Song AI](https://aizxs.com/tool/lyrics-into-song-ai) — Lyrics Into Song AI 是一款在线AI音乐创作工具，专门把文字歌词转换成完整的歌曲
+- [MetaVoice](https://aizxs.com/tool/metavoice) — MetaVoice 是一款AI实时变声工具，专门做声音的实时转换和处理
+- [悦音配音](https://aizxs.com/tool/yue-yin-pei-yin) — 悦音配音是制片帮旗下推出的一款 AI 智能配音工具，专门解决「想给视频配音但找不到合适的人」这个问题
+- [Typecast](https://aizxs.com/tool/typecast) — Typecast 是一款来自国外的 AI 语音生成平台，主打将文本快速转化为自然逼真的语音内容
+- [OptimizerAI](https://aizxs.com/tool/optimizerai) — OptimizerAI 是一款专门用 AI 生成各种声音效果的工具，它的核心理念就是「你说它就响」
+- [刺鸟配音](https://aizxs.com/tool/ci-niao-pei-yin) — 还在为找不到合适配音而发愁？一段几分钟的视频，配音费可能比剪辑费还贵；找真人配音，动辄几百上千元，还要反复沟通档期
+- [海绵音乐](https://aizxs.com/tool/hai-mian-yin-yue) — 刷抖音的时候，你是不是经常被某首背景音乐戳中，心想「这歌我也想来一首」？
+- [琅琅配音](https://aizxs.com/tool/lang-lang-pei-yin) — 你有没有遇到过这种情况——写了一篇特别棒的视频脚本，但一想到要自己把文字读出来录成音频，就头疼不已？
+- [阿贝智能](https://aizxs.com/tool/a-bei-zhi-neng) — 阿贝智能是一款专注于儿童绘本创作的AI工具平台，简单几步就能生成一本完整的、有图有声的个性化绘本
+- [JoyPix](https://aizxs.com/tool/joypix) — JoyPix 是一个专注于数字人形象和语音合成的 AI 创作平台
+- [Wondercraft](https://aizxs.com/tool/wondercraft) — Wondercraft是一款AI音频内容创作平台，核心功能是把文字变成播客、有声书、广告配音等多种音频形式
+- [TTSMaker](https://aizxs.com/tool/ttsmaker) — TTSMaker，中文名马克配音，是一款完全免费的AI文字转语音工具
+- [Auphonic](https://aizxs.com/tool/auphonic) — Auphonic 是面向播客与音频内容创作者的 AI 音频后期处理工具，定位「一键让音频达到专业品质」
+- [Narakeet](https://aizxs.com/tool/narakeet) — Narakeet 由 2015 年创立，是 AI 视频配音领域的代表产品
+- [LOVO AI](https://aizxs.com/tool/lovo-2) — LOVO AI 由 Tom Lee 和 Charlie Lee 兄弟创立于 2019 年
+- [Resemble AI](https://aizxs.com/tool/resemble-2) — Resemble AI 由 Zohaib Ahmed 创立于 2019 年
+- [Murf](https://aizxs.com/tool/murf-2) — Murf AI 由 Ankur Edkie
+- [WellSaid Labs](https://aizxs.com/tool/wellsaid-2) — 企业级 AI 配音平台，50+ 工作室级声音，商用授权与 API 齐全 · **免费增值**
+- [Podcastle](https://aizxs.com/tool/podcastle) — Podcastle(podcastle.ai)是 Podcastle Inc. 2020 年推出的 AI 音频创作平台
+- [Mubert](https://aizxs.com/tool/mubert) — Mubert 是面向内容创作者和开发者的 AI 音乐生成平台，定位是「用 AI 实时生成免版税音乐，视频/播客/游戏即开即用」
+- [Whisper API](https://aizxs.com/tool/whisper-api) — Whisper API 是基于 OpenAI Whisper 模型的多语言音频转录 API
+- [Soundraw](https://aizxs.com/tool/soundraw-ai) — Soundraw 是面向内容创作者的 AI 音乐生成平台
+- [VoiceMaker](https://aizxs.com/tool/voicemaker) — VoiceMaker 是面向内容创作者和企业的 AI 语音生成平台
+- [AceTagGen](https://aizxs.com/tool/acetaggen) — AceTagGen 是面向 SUNO AI 音乐创作者的 AI 提示词生成工具
+- [ElevenLabs](https://aizxs.com/tool/elevenlabs-2) — ElevenLabs 是当前最知名的 AI 语音生成平台
+- [Mureka](https://aizxs.com/tool/mureka) — Mureka（缪斯客）是面向创作者的 AI 音乐生成平台，提供旋律、歌曲、歌词、配乐的一站式创作能力
+- [CosyVoice Studio](https://aizxs.com/tool/cosyvoice-studio) — CosyVoice Studio 是阿里巴巴推出的国内首个一站式 AI 语音生产力平台
+- [快乐虾米 HappyShrimp](https://aizxs.com/tool/happyshrimp) — 快乐虾米（HappyShrimp）是阿里巴巴 2026 年 8 月 19 日发布的 AI 音乐创作模型 1.0
+- [牛片配音](https://aizxs.com/tool/niupian-peiyin) — 牛片配音是一款文字转语音在线配音工具，提供 318 个高度拟人 AI 主播、20 种情绪发音、多人对话模式、声音克隆等能力
+- [Suno v6](https://aizxs.com/tool/suno-v6) — 自然语言写歌的 AI 音乐模型，一句话出 BGM，支持描述式改段与多素材混音 · **免费增值**
+- [Cleanvoice](https://aizxs.com/tool/cleanvoice) — AI 音频清理工具，自动去口癖/停顿/噪音，按处理时长计费 · **付费**
+
+## AI 学习工具
+
+- [Duolingo Max](https://aizxs.com/tool/duolingo-max) — Duolingo Max 是语言学习平台 Duolingo 推出的 AI 订阅服务
+- [Khanmigo](https://aizxs.com/tool/khanmigo) — Khanmigo 是可汗学院（Khan Academy）推出的 AI 教学助手
+- [飞桨AI Studio](https://aizxs.com/tool/fei-jiang-ai-studio) — 飞桨AI Studio 是百度推出的 AI 学习与实践平台
+- [Day of AI](https://aizxs.com/tool/day-of-ai) — Day of AI 是由 MIT RAISE（Responsible AI for Social Emp…
+- [Coursera](https://aizxs.com/tool/coursera) — Coursera 是全球知名的在线学习平台，提供来自顶尖大学和机构的优质课程，涵盖计算机科学、商业管理、人文艺术等众多领域
+- [AI大学堂](https://aizxs.com/tool/ai-daxuetang) — AI 大学堂是科大讯飞打造的在线 AI 学习平台
+- [DeepLearning.AI](https://aizxs.com/tool/deeplearning-ai) — DeepLearning.AI 是人工智能领域知名专家吴恩达（Andrew Ng）创立的在线教育平台
+- [ML for Beginners](https://aizxs.com/tool/ml-for-beginners) — ML for Beginners(Machine Learning for Beginners)是微软推…
+- [Lynote](https://aizxs.com/tool/lynote) — Lynote 是面向学生、研究者和职场人士的 AI 学习助手，专注于解决信息过载问题
+- [YOCO智能制课](https://aizxs.com/tool/yoco) — YOCO智能制课是专注于PPT讲解视频生成的AI创作工具，用户只需上传PPT，自动生成专业级数字人讲解视频
+- [学吧导航](https://aizxs.com/tool/xueba-nav) — 学吧导航是为学习爱好者精心打造的学霸导航网站，网站汇聚海量优质的学习资源，涵盖学习 AI、编程、外语、办公、设计等多个领域
+- [飞象老师](https://aizxs.com/tool/feixiang-teacher) — 飞象老师是猿辅导推出的国内首个 AI 教学和备课工具，一句话生成教学动画
+- [维普科创助手](https://aizxs.com/tool/cqvip-research) — 维普科创助手是维普推出的 AI 科研智能服务平台
+- [玻尔](https://aizxs.com/tool/bohrium) — 玻尔（Bohrium）是深势科技联合北京科学智能研究院（AISI）推出的全球首个覆盖「读文献-做计算-做…
+- [沁言学术](https://aizxs.com/tool/qinyan-academic) — 沁言学术是专为高校师生、科研人员及知识工作者设计的 AI 科研写作工具
+- [SciMaster](https://aizxs.com/tool/scimaster) — SciMaster 是上交大联合深势科技推出的通用科研 Agent
+- [AI分享圈](https://aizxs.com/tool/aisharenet) — AI 分享圈是最好最全的 AI 免费资源分享网站
+- [小绿鲸](https://aizxs.com/tool/xljsci) — 小绿鲸是专为科研人员设计的高效文献管理与阅读工具
+- [Trancy](https://aizxs.com/tool/trancy) — Trancy 是一款专为外语学习者设计的 AI 语言学习工具，提供网页端在线使用和浏览器插件两种形态
+- [Udacity AI学院](https://aizxs.com/tool/udacity-ai) — Udacity AI学院是美国Udacity平台旗下的在线学习品牌，专注培养人工智能领域的实战型人才
+- [阿里云AI学习路线](https://aizxs.com/tool/aliyun-ai-learning-roadmap) — 阿里云AI学习路线是阿里云开发者社区打造的一套系统化人工智能学习方案，专门为零基础到有一定经验的开发者设计
+- [fast.ai](https://aizxs.com/tool/fastai) — fast.ai是一个致力于让深度学习变得人人可用的开源项目，由一群相信AI不应该只属于少数精英的研究者创立
+- [Elements of AI](https://aizxs.com/tool/elements-of-ai-2) — Elements of AI是芬兰赫尔辛基大学与科技公司Reaktor联合推出的免费AI通识在线课程
+- [神经网络入门](https://aizxs.com/tool/brilliant-neural-networks-2) — 神经网络入门是Brilliant平台推出的一门专门介绍人工神经网络的在线课程，适合想理解AI到底是怎么「思考」和「学习」的人
+- [Kaggle](https://aizxs.com/tool/kaggle-2) — Kaggle 是全球最大的数据科学和机器学习竞赛社区，由 Google 运营
+- [动手学深度学习](https://aizxs.com/tool/dong-shou-xue-shen-du-xue-xi-2) — 《动手学深度学习》是一本结合理论与实践的深度学习教材，同时也是一个配套的在线学习平台
+- [ShowMeAI知识社区](https://aizxs.com/tool/showmeai-zhi-shi-she-qu) — ShowMeAI知识社区是专注于人工智能领域的综合性学习平台
+- [Generative AI for Beginners](https://aizxs.com/tool/generative-ai-for-beginners) — Generative AI for Beginners是微软Cloud Advocates团队出品的免费生成式AI入门课程
+- [腾讯扣叮](https://aizxs.com/tool/teng-xun-kou-ding) — 腾讯扣叮是腾讯公司面向 6 至 18 岁青少年推出的编程教育平台
+- [MachineLearningMastery](https://aizxs.com/tool/machinelearningmastery) — MachineLearningMastery是由Jason Brownlee博士创办的机器学习教育网站
+- [星火科研助手](https://aizxs.com/tool/xing-huo-ke-yan-zhu-shou) — 科研人员的时间，真正花在思考上的不到 30%,其余都被「找论文、读论文、写论文」这三座大山吃掉了
+- [Seele AI](https://aizxs.com/tool/seele-ai) — Seele AI 是全灵公司推出的 AI 3D 游戏生成工具，被称为「全球首个端到端 AI 3D 游戏生成工具」
+- [Caktus AI](https://aizxs.com/tool/caktus-ai) — Caktus AI 是面向学生群体的 AI 学习辅助平台，定位「AI 学习伙伴，覆盖论文、数学、科学等全学科」
+- [Elicit](https://aizxs.com/tool/elicit) — Elicit 是面向科研人员的 AI 研究助手，定位「AI for scientific research」
+- [Quizlet](https://aizxs.com/tool/quizlet) — Quizlet 是全球领先的学习工具平台，定位「AI 驱动的学习卡与记忆系统」
+- [Photomath](https://aizxs.com/tool/photomath) — Photomath 是面向学生的 AI 数学辅导工具，定位「用手机摄像头解题」
+- [Brisk Teaching](https://aizxs.com/tool/brisk-teaching) — Brisk Teaching 是面向教师的免费 AI 工具集，定位「AI 在教育者工作的地方工作」
+- [Curipod](https://aizxs.com/tool/curipod) — Curipod 由 2021 年于挪威奥斯陆创立，是 AI 互动课堂领域的代表产品
+- [Knowt](https://aizxs.com/tool/knowt) — Knowt 由 2019 年创立，是 AI 学习卡片领域的代表产品
+- [Tutor AI](https://aizxs.com/tool/tutor-ai) — Tutor AI 由 2022 年创立，是 AI 私人辅导领域的代表产品
+- [Gizmo](https://aizxs.com/tool/gizmo) — Gizmo 由 2023 年创立，是 AI 主动学习领域的代表产品
+- [Mindgrasp](https://aizxs.com/tool/mindgrasp) — Mindgrasp(mindgrasp.ai)是 Mindgrasp Inc. 2023 年推出的 AI 学习助手
+- [Khan Academy](https://aizxs.com/tool/khan-academy) — Khan Academy(khanacademy.org)是 Salman Khan 2008 年创立的非营利教育平台
+- [Synthesis](https://aizxs.com/tool/synthesis) — Synthesis(synthesis.com / synthesis.ai)是 Synthesis I…
+- [SciSummary](https://aizxs.com/tool/scisummary) — SciSummary 是面向科研人员/学生的 AI 学术论文总结工具，定位是「AI 用 5 分钟读懂 30 页论文」
+- [SciSpace](https://aizxs.com/tool/scispace-ai) — SciSpace(原 Typeset) 是面向科研人员的 AI 学术研究平台
+- [AnkiDecks AI](https://aizxs.com/tool/anki-decks) — AnkiDecks AI 是面向学生和终身学习者的 AI 闪卡生成工具
+- [Jenni](https://aizxs.com/tool/jenni-ai) — Jenni 是面向学术研究者和大学生的 AI 写作助手平台
+- [66降AI率](https://aizxs.com/tool/66-aigc-jiangailv) — 66降AI率是一款专门用于降低论文中 AIGC(AI 生成内容)痕迹和查重率的在线工具
+- [ChatSPSS](https://aizxs.com/tool/chatspss) — ChatSPSS 是面向非统计专业人员的 AI 数据分析助手
+- [SpeedAI](https://aizxs.com/tool/speedai) — SpeedAI 是面向科研人员的 AI 助手
+- [微信读书Skill](https://aizxs.com/tool/skill) — 微信读书Skill 是微信读书官方推出的 AI 助手扩展能力，基于 MCP(Model Context Protocol)协议
+- [PaperFake](https://aizxs.com/tool/paperfake-ai) — PaperFake 降重降 AI 率是专注于降低文章中 AI 生成内容痕迹的智能工具
+- [MagicArena](https://aizxs.com/tool/magicarena) — MagicArena 是字节跳动推出的国内首个视觉生成大模型对战平台
+- [飞象老师 3.0](https://aizxs.com/tool/feixiang-laoshi) — 飞象老师是面向教育场景的垂直 AI 产品，2026 年 8 月 24 日正式上线 3.0 版本
+
+## AI 聊天工具
+
+- [豆包](https://aizxs.com/tool/dou-bao) — 豆包是字节跳动旗下基于自研大模型的多模态 AI 助手
+- [文心一言](https://aizxs.com/tool/wen-xin-yi-yan) — 文心一言是百度推出的对话式 AI 大模型产品
+- [ChatGPT](https://aizxs.com/tool/chatgpt) — ChatGPT 是 OpenAI 推出的大语言模型对话产品
+- [通义千问](https://aizxs.com/tool/tong-yi-qian-wen) — 通义千问是阿里巴巴推出的大语言模型对话产品
+- [Claude](https://aizxs.com/tool/claude) — Claude 是 Anthropic 推出的高性能 AI 智能助手
+- [Gemini](https://aizxs.com/tool/gemini) — Gemini 是谷歌推出的生成式人工智能模型系列，具备强大的多模态能力，能处理文本、图像、音频等多种内容
+- [腾讯元宝](https://aizxs.com/tool/tx-yuanbao) — 腾讯元宝是腾讯推出的免费 AI 智能助手
+- [Kimi智能助手](https://aizxs.com/tool/kimi) — Kimi 智能助手是北京月之暗面推出的 AI 智能助手
+- [Me.bot](https://aizxs.com/tool/me-bot) — Me.bot 是心识宇宙推出的个性化 AI 伴侣产品，通过记录和分析用户的个人记忆，提供个性化的生活管理、创意启发和日程安排
+- [Lorka AI](https://aizxs.com/tool/lorka-ai) — Lorka AI 是多模型 AI 聚合对话平台（AI Aggregator）
+- [Bloome](https://aizxs.com/tool/bloome) — Bloome 是 YouWare 团队推出的 Agentic IM(智能体即时通讯)平台
+- [LongCat](https://aizxs.com/tool/longcat) — LongCat 是美团推出的自研大模型 AI 对话平台，具有强大的自然语言处理能力
+- [Z.ai](https://aizxs.com/tool/zai) — Z.ai 是智谱面向全球推出的 AI 模型体验平台，集成多种先进模型如 GLM-4.5，专注于提升自然语言处理能力
+- [Flowith](https://aizxs.com/tool/flowith) — Flowith 是一款画布式的 AI 智能体工具
+- [魔搭GPT（ModelScopeGPT）](https://aizxs.com/tool/modelscope-gpt) — ModelScopeGPT，中文名「魔搭GPT」，是阿里巴巴达摩院推出的多模态 AI 智能助手
+- [MChat](https://aizxs.com/tool/mchat-mengzi-2) — MChat 是澜舟科技推出的 AI 对话助手，基于他们自研的「孟子GPT」大模型技术开发
+- [360智脑](https://aizxs.com/tool/360-zhi-nao) — 360智脑是360公司依托其多年搜索技术积累推出的大模型AI对话助手，2023年9月正式向公众全面开放
+- [CueMe](https://aizxs.com/tool/cueme-2) — CueMe是夸克浏览器推出的AI写作和对话助手，基于大语言模型技术，主打长文本理解和深度内容生成
+- [通义星尘](https://aizxs.com/tool/tong-yi-xing-chen) — 通义星尘是阿里云基于通义千问大模型打造的个性化角色创作平台
+- [天工AI](https://aizxs.com/tool/tian-gong-ai) — 天工AI是昆仑万维推出的 AI 智能助手，在通用对话能力之外，它有两个主攻方向——金融投资和科研学术
+- [百度AI伙伴](https://aizxs.com/tool/bai-du-ai-huo-ban) — 百度 AI 伙伴是百度公司基于文心大模型推出的 AI 搜索对话工具，2023 年上线后迅速成为很多人日常找信息和写内容的助手
+- [元象XChat](https://aizxs.com/tool/yuan-xiang-xchat) — 元象XChat是基于元象科技自主研发的XVERSE通用大模型打造的AI聊天助手，和市面上常见的套壳GPT类产品不同
+- [阶跃AI](https://aizxs.com/tool/jie-yue-ai) — 「开会十分钟，找资料两小时」——这是大量职场人的真实日常
+- [Cici](https://aizxs.com/tool/cici) — Cici 是字节跳动在海外市场推出的 AI 对话助手，也就是豆包的海外版本
+- [问小白](https://aizxs.com/tool/wen-xiao-bai) — 问小白是一款由元石科技打造的AI智能助手，基于自研的元石大模型开发而成
+- [百小应](https://aizxs.com/tool/bai-xiao-ying) — 百小应，听到这个名字，你可能还觉得有点陌生
+- [Chatfuel](https://aizxs.com/tool/chatfuel) — Chatfuel 是面向电商与企业的 AI 聊天机器人平台，定位「通过社交媒体销售与增长的 AI」
+- [Tidio](https://aizxs.com/tool/tidio) — Tidio 由 Robert Dąsa 和 Mariusz Perlinski 在 2014 年于波兰弗罗茨瓦夫创立
+- [Intercom Fin](https://aizxs.com/tool/intercom-fin) — Intercom Fin 是 Intercom 公司的 AI 客服产品，2023 年 3 月推出，基于 GPT-4 技术构建
+- [Kommunicate](https://aizxs.com/tool/kommunicate) — Kommunicate 是面向企业的 AI 客服平台，定位「无代码 AI 客服 + 实时聊天」
+- [Freshchat](https://aizxs.com/tool/freshchat) — Freshchat 是 Freshworks 旗下的 AI 客服平台，定位「AI 加持的现代客服软件」
+- [Help Scout](https://aizxs.com/tool/help-scout) — Help Scout 是面向中小企业的客服平台，定位「AI 加持的轻量级客服系统」
+- [Cluely](https://aizxs.com/tool/cluely-2) — Cluely 由 Roy Lee 和 Neel Shanmugam 于 2024 年创立于美国
+- [LivePerson](https://aizxs.com/tool/liveperson-2) — LivePerson 由 Robert LoCascio 於 1995 年创立於美国纽约，是全球最早的在线客服平台之一
+- [Replika](https://aizxs.com/tool/replika-3) — Replika 由 Eugenia Kuyda 创立于 2017 年，总部位于美国旧金山，是面向个人用户的 AI 陪伴聊天应用
+- [腾讯混元大模型](https://aizxs.com/tool/hunyuan) — 腾讯混元（Hunyuan）是腾讯 2023 年推出的自研万亿参数大语言模型，定位是「中文理解领先的全能 AI 大模型」
+- [Inflection](https://aizxs.com/tool/inflection) — Inflection AI(inflection.ai)是 Inflection AI Inc. 202…
+- [Chatsimple](https://aizxs.com/tool/chatsimple) — Chatsimple(原名 Expertise AI)是面向销售人员的 AI 行政助理平台，定位是「AI 帮销售干杂活」
+- [Caveduck](https://aizxs.com/tool/caveduck) — Caveduck 是面向娱乐/创意用户的 AI 角色聊天平台，定位是「创造你自己的 AI 朋友/伴侣/虚拟角色」
+- [LibreChat](https://aizxs.com/tool/librechat-ai) — LibreChat 是面向开发者和企业的开源 ChatGPT 替代品
+- [Altern.ai](https://aizxs.com/tool/altern-ai) — Altern.ai 是面向普通用户的 AI 应用聚合与发现平台
+- [千问](https://aizxs.com/tool/qianwen) — 千问是阿里云推出的全能型 AI 助手
+
+## AI 搜索引擎
+
+- [Perplexity](https://aizxs.com/tool/perplexity) — Perplexity 是基于大语言模型的 AI 搜索引擎
+- [Felo](https://aizxs.com/tool/felo) — Felo 是免费 AI 智能搜索引擎
+- [纳米AI](https://aizxs.com/tool/nami-ai) — 纳米 AI 是 360 公司推出的新一代超级 AI 搜索工具，集搜索、写作、创作于一体，重新定义 AI 搜索体验
+- [夸克AI](https://aizxs.com/tool/quark-ai) — 夸克是阿里推出的 AI 搜索应用
+- [心流](https://aizxs.com/tool/xinliu) — 心流是阿里巴巴推出的基于星辰大模型的 AI 搜索助手
+- [Devv](https://aizxs.com/tool/devv) — Devv(Devv.ai)是一款面向程序员的新一代 AI 搜索引擎
+- [蜜崽检索](https://aizxs.com/tool/mi-zai-jian-suo) — 蜜崽检索是 AI 学术检索与研究辅助工具，帮助用户在超过 3.3 亿篇英文文献中快速查找、筛选、阅读和分析文献
+- [SheepGeo](https://aizxs.com/tool/sheepgeo) — SheepGeo 是国内首个专业的 AI GEO(生成式引擎优化)分析平台，专为 AI 时代的企业品牌曝光设计
+- [AlphaSense](https://aizxs.com/tool/alphasense) — AlphaSense 是专为金融专业人士设计的 AI 搜索工具
+- [Neeva](https://aizxs.com/tool/neeva) — Neeva 是一个类似于 New Bing 的 AI 搜索引擎，同样集成了 AI 问答的功能，并标注信息引用来源
+- [Adot](https://aizxs.com/tool/adot) — Adot是一款由AI驱动的去中心化Web3搜索引擎
+- [Dexa AI](https://aizxs.com/tool/dexa-ai) — Dexa AI是一款专注于播客内容领域的AI搜索引擎
+- [CuspAI](https://aizxs.com/tool/cuspai) — CuspAI是由剑桥大学研究团队推出的材料学专用AI搜索和设计工具
+- [Qdrant](https://aizxs.com/tool/qdrant) — Qdrant 是一款开源的向量数据库，专门用来处理 AI 场景下的向量相似性搜索
+- [Andi](https://aizxs.com/tool/andi-search-2) — Andi 是一个主打对话式 AI 的新型搜索引擎，跟我们平时用的百度、Google 不太一样
+- [Miku](https://aizxs.com/tool/hellomiku-2) — Miku AI 是一款智能搜索引擎，跟我们熟悉的传统搜索引擎相比，它的最大特点是能真正理解你想找什么，而不是机械地匹配关键词
+- [Komo Search](https://aizxs.com/tool/komo-search-2) — 无广告 AI 搜索引擎，回答带来源引用，还能顺着问题推荐探索方向 · **免费增值**
+- [AMiner](https://aizxs.com/tool/aminer-2) — AMiner 是具备我国自主知识产权的智能科技情报大数据平台
+- [Songtell](https://aizxs.com/tool/songtell) — 你有没有过这种感觉：听到一首歌，觉得旋律很好听，但歌词到底在唱什么完全听不懂？
+- [Globe Explorer](https://aizxs.com/tool/globe-explorer-2) — Globe Explorer 是一款基于大语言模型的 AI 搜索引擎，由海外团队开发，定位与传统搜索工具完全不同
+- [Reportify](https://aizxs.com/tool/reportify-2) — Reportify 是一款专注金融投资领域的 AI 搜索和问答工具
+- [博查AI搜索](https://aizxs.com/tool/bo-cha-ai-sou-suo) — 博查AI搜索是国内首个支持多模型切换的 AI 搜索引擎
+- [Consensus](https://aizxs.com/tool/consensus) — Consensus AI 是一款人工智能驱动的科研搜索引擎，专门帮助用户快速找到并理解学术论文
+- [百度AI探索版](https://aizxs.com/tool/bai-du-ai-tan-suo-ban) — 百度AI探索版是百度推出的AI搜索引擎，专门用AI技术来提升搜索和问题解答体验
+- [Glean](https://aizxs.com/tool/glean) — Glean是一款专门为职场人打造的AI搜索引擎，核心解决的问题很简单——工作中需要找东西时，不用再记这个东西存在哪个平台了
+- [知乎直答](https://aizxs.com/tool/zhi-hu-zhi-da) — 知乎直答是知乎在2024年推出的一款AI搜索产品，背后用的是知乎自己研发的知海图大模型
+- [元典智库](https://aizxs.com/tool/yuan-dian-zhi-ku) — 元典智库是华宇软件公司推出的专业法律知识服务平台，可以理解为法律版的搜索引擎
+- [Kagi](https://aizxs.com/tool/kagi) — Kagi 是面向隐私保护用户的付费搜索引擎，定位「无广告 + AI 加持的搜索引擎」
+- [Exa](https://aizxs.com/tool/exa) — Exa（原 Metaphor）是为 AI 应用设计的搜索引擎 API，定位「为 AI 代理提供网络搜索能力」
+- [Bing AI](https://aizxs.com/tool/bing-ai) — Bing AI 是微软基于 OpenAI GPT 模型推出的 AI 搜索引擎，定位「AI 加持的搜索引擎」
+- [Mojeek](https://aizxs.com/tool/mojeek) — Mojeek 是英国独立 AI 搜索引擎，定位「无追踪的隐私搜索 + AI 答案」
+- [Algolia](https://aizxs.com/tool/algolia) — Algolia 由 Nicolas Dessaigne 和 Julien Lemoine 创立于 2012 年
+- [Vectara](https://aizxs.com/tool/vectara) — Vectara 由 Amr Awadallah 创立于 2022 年，是 AI 搜索领域的代表平台
+- [Refinder AI](https://aizxs.com/tool/refinder-ai) — Refinder AI 是面向企业的 AI 知识搜索平台
+- [MinusX](https://aizxs.com/tool/minusx) — MinusX 是面向企业的 AI 数据分析 Agent
+- [Telborg](https://aizxs.com/tool/telborg) — Telborg 是面向数据中心运营商和 AI 基础设施团队的 AI 数据中心选址平台
+- [AiMatch](https://aizxs.com/tool/aimatch) — AiMatch 是面向 AI 工具选型者的 AI 工具目录与对比平台
+
+## AI PPT/演示工具
+
+- [Gamma](https://aizxs.com/tool/gamma) — Gamma 是 AI 演示文稿工具
+- [讯飞智文](https://aizxs.com/tool/xunfei-zhiwen) — 讯飞智文是科大讯飞推出的智能文档 AI 助手
+- [AiPPT插件](https://aizxs.com/tool/aippt) — AiPPT插件是 AiPPT 推出的AI PPT制作工具
+- [一点PPT](https://aizxs.com/tool/yidian-ppt) — 一点PPT是专为职场人士打造的AI智能PPT生成工具，主打「3秒开启PPT创作」的极致效率体验
+- [二狗PPT](https://aizxs.com/tool/ergou-ppt) — 二狗PPT 是基于 DeepSeek V4 旗舰大模型与自研 AI Agent 调度系统的「去 AI 味…
+- [麦当秀MindShow](https://aizxs.com/tool/mindshow) — 麦当秀 MindShow 是 AI 在线 PPT 生成工具
+- [Pi智能PPT](https://aizxs.com/tool/pippt) — Pi(Presentation Intelligence)是 AI-Native 内容创作和互动共享平台
+- [夸克PPT](https://aizxs.com/tool/quark-ppt) — 夸克 PPT 是阿里旗下夸克 AI 推出的智能演示文档生成工具
+- [Kimi PPT助手](https://aizxs.com/tool/kimi-ppt) — Kimi PPT 助手是月之暗面 Kimi 全新自研的 PPT 助手，能帮助用户用 AI 一键生成 PPT 演示文稿
+- [VoxDeck](https://aizxs.com/tool/voxdeck) — VoxDeck 是创新的 AI 演示文稿制作工具，通过多模态 AI 技术重新定义创意演示方式
+- [课灵 PPT](https://aizxs.com/tool/classppt) — 课灵 PPT 是专为教育场景设计的 AI 课件 PPT 生成工具
+- [Napkin](https://aizxs.com/tool/napkin) — Napkin 是一款将文本内容快速转换为视觉图像的 AI 办公工具，属于演示辅助类软件
+- [咔片PPT](https://aizxs.com/tool/ka-pian-ppt) — 咔片PPT是一款在线AI生成PPT的工具，解决的是很多人做PPT时最痛苦的环节——从零设计框架和反复调格式
+- [Beautiful.ai](https://aizxs.com/tool/beautiful-ai) — Beautiful.ai(beautiful.ai)是一款 AI 驱动的 PPT 演示工具
+- [SlidesAI](https://aizxs.com/tool/slidesai) — SlidesAI(slidesai.io)是 SlidesAI Inc. 2021 年推出的 Googl…
+- [Pitch](https://aizxs.com/tool/pitch) — Pitch(pitch.com)是 Pitch Software GmbH 2019 年推出的协作演示工具
+- [Decktopus](https://aizxs.com/tool/decktopus) — Decktopus(decktopus.com)是 Decktopus AI Inc. 2021 年推出…
+- [Visme](https://aizxs.com/tool/visme) — Visme(visme.co)是 Visme Inc. 2013 年推出的一站式可视化设计平台
+- [ChatPPT](https://aizxs.com/tool/chatppt) — ChatPPT 是一款 AI 驱动的演示文稿生成平台
+- [即触AI PPT](https://aizxs.com/tool/jcppt) — 即触AI PPT 是一款主打「10 秒生成专业级 PPT」的在线演示文稿生成工具
+- [iSlide](https://aizxs.com/tool/islide) — iSlide 是一款集 AI 一键生成 PPT、智能编辑、模板素材库于一体的 PPT 提效工具
+- [Slidify](https://aizxs.com/tool/slidify) — Slidify 是一款主打「旧稿升级」与「文档转 PPT」的 AI 演示文稿工具
+
+---
+
+## 说明
+
+- 每个工具的详细用法、免费额度、踩坑提醒，见 [AI智习室](https://aizxs.com)
+- 其中 923 个工具暂未标注收费模式，以官网为准
+- 欢迎 PR 补充新工具，请附上工具官网链接与一句话说明
