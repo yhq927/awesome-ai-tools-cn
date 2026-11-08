@@ -293,6 +293,7 @@
 
 ## AI 视频工具
 
+- [ReelAI](https://tryreelai.com/) — 将照片通过预设效果制作成 AI 短视频的付费工具
 - [即梦 AI](https://aizxs.com/tool/ji-meng-ai) — 即梦 AI 是字节跳动旗下的一站式 AI 视频与图像生成平台
 - [可灵](https://aizxs.com/tool/ke-ling) — 可灵 (Kling) 是快手推出的 AI 视频生成大模型
 - [Pika](https://aizxs.com/tool/pika) — Pika 是海外知名的 AI 视频生成平台
