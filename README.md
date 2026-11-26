@@ -768,6 +768,7 @@
 
 ## AI 音频工具
 
+- [FastScribe](https://fastscribe.org/zh) — 将采访录音、课程视频或支持的公开视频链接转成带时间戳的逐字稿，可导出 Word、纯文本与 SRT 字幕 · **免费额度＋付费方案**
 - [Suno](https://aizxs.com/tool/suno) — Suno 是由 Suno AI 公司开发的 AI 音乐生成工具
 - [ElevenLabs](https://aizxs.com/tool/elevenlabs) — ElevenLabs 是全球领先的 AI 文字转语音平台
 - [NotebookLM](https://aizxs.com/tool/notebooklm) — NotebookLM 是谷歌推出的 AI 笔记应用，基于大型语言模型帮助用户管理和吸收信息，支持上传文档、链接、文本
